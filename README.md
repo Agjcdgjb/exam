@@ -13,7 +13,7 @@
 ## 使用方式
 
 1. 直接訪問 GitHub Pages 網址：
-[專案網址]
+https://agjcdgjb.github.io/quiz-system/
 
 2. 或下載後在本地運行：
    - 下載所有文件
