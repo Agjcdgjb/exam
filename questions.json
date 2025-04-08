@@ -1,0 +1,4602 @@
+[
+    {
+        "question": "1. 關於資訊安全管理系統的描述，下列何項正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊安全管理系統最主要在提供組織用以建立、實 作、維持及持續改善與資訊安全有關的事項"
+            },
+            {
+                "letter": "B",
+                "text": "影響資訊安全管理系統的風險因素，皆不會隨時間而改變"
+            },
+            {
+                "letter": "C",
+                "text": "組織所採用的資訊安全管理系統實作的措施，皆不 會隨時間而改變"
+            },
+            {
+                "letter": "D",
+                "text": "組織資訊安全管理系統的建立及實作，不會因為規 模大小及性質所影響"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "2. 組織向第三方驗證公司申請 ISO 27001 資訊安全管理系統證 書，下列步驟何項正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "初次驗證通過後，需要不定期重新驗證以取得證書"
+            },
+            {
+                "letter": "B",
+                "text": "初次申請驗證流程，分為文件審查與實地審查兩個 階段"
+            },
+            {
+                "letter": "C",
+                "text": "重新審查 只需要進行文件審查即可"
+            },
+            {
+                "letter": "D",
+                "text": "組織取得通過驗證證書後，三年進行一次重新審查即可延續證書有效期限"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "3. 下列何者「不」是 ISO/IEC 27001: 2022轉版變化的重點？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "管理系統與 ISO結構的一致性"
+            },
+            {
+                "letter": "B",
+                "text": "簡化標題"
+            },
+            {
+                "letter": "C",
+                "text": "新增控制項目"
+            },
+            {
+                "letter": "D",
+                "text": "驗證範圍調整"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "4. 資訊安全三個主要基本要素「不」包含下列何項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "機密性"
+            },
+            {
+                "letter": "B",
+                "text": "安全性"
+            },
+            {
+                "letter": "C",
+                "text": "完整性"
+            },
+            {
+                "letter": "D",
+                "text": "可用性"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "5. 組織應於各相關部門及層級建立資訊安全目標，請問下列何 項「不」是規劃資訊安全目標主要考慮事項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "與資訊安全政策一致"
+            },
+            {
+                "letter": "B",
+                "text": "以文件化資訊提供"
+            },
+            {
+                "letter": "C",
+                "text": "應符合適切性"
+            },
+            {
+                "letter": "D",
+                "text": "容易達成"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "6. 下列何者目前並非數位發展部資通安全署認可之資通安全專業證照？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "ISO 27001 L"
+            },
+            {
+                "letter": "B",
+                "text": "CISSP"
+            },
+            {
+                "letter": "C",
+                "text": "iPAS 中級資訊安全工程師"
+            },
+            {
+                "letter": "D",
+                "text": "ISO 29100 Lead Privacy Implementer"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "7. 下列何項是支付卡產業資料安全標準？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "HIPA"
+            },
+            {
+                "letter": "B",
+                "text": "SOC II"
+            },
+            {
+                "letter": "C",
+                "text": "PCI DSS"
+            },
+            {
+                "letter": "D",
+                "text": "IEC 62443"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "8. 依據《上市上櫃公司資通安全管控指引》第 12條規定， 「定期 辦理資安風險評估，就核心業務及核心資通系統鑑別其可能遭 遇之資安風 險，分析其喪失機密性、完整性及可用性之衝擊」 。 請問，該規定所稱定期辦理風險評估，所代表用意為下列何項 最為適切？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "可以解決先前評估作業者所遺漏之項目"
+            },
+            {
+                "letter": "B",
+                "text": "可以使用不同的評估技術及方法"
+            },
+            {
+                "letter": "C",
+                "text": "有助於提高員工的風險意識"
+            },
+            {
+                "letter": "D",
+                "text": "組織的業務發展帶來的威脅不斷改變"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "9. 根據資通安全管理法之規定，主管機關應於其自身完成資通 安全事件之通報後，依規定時間完成該資通安全事件等級之 審核，下列敘述何項正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "通報為第三級或第四級資通安全事件者，於接獲後 四小時內"
+            },
+            {
+                "letter": "B",
+                "text": "通報為第三級或第四級資通安全事件者，於接獲後 六小時內"
+            },
+            {
+                "letter": "C",
+                "text": "通報為第一級或第二級資通安全事件者，於接獲後 八小時內"
+            },
+            {
+                "letter": "D",
+                "text": "通報為第一級或第二級資通安全事件者，於接獲後 二小時內"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "10. 上市櫃公司發生資安事件時，依照證交所規範，下列何者需 要發布為重大訊息的可能性最小？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "公司官網遭分散式阻斷服務攻擊（ DDoS） ，無法正 常提供服務，但公司核心業務不受影響"
+            },
+            {
+                "letter": "B",
+                "text": "內部員工訂便當系統當機，導致員工無法訂便當"
+            },
+            {
+                "letter": "C",
+                "text": "內部文件外洩，但不涉及機密或顧客資料，僅有員 工個人資料"
+            },
+            {
+                "letter": "D",
+                "text": "共用檔案系統遭勒索軟體攻擊並加密，但有完整備 份，所有資料可迅速恢復"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "11. 關於中華民國「資通安全管理法」之條文內容，下列何項正 確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "為保障著作人著作權益，調和社會公共利益，促進 國家文化發展"
+            },
+            {
+                "letter": "B",
+                "text": "為保障營業秘密，維護產業倫理與競爭秩序，調和 社會公共利益"
+            },
+            {
+                "letter": "C",
+                "text": "為規範個人資料之蒐集、處理及利用，以避免人格 權受侵害，並促進個人資料之合理利用"
+            },
+            {
+                "letter": "D",
+                "text": "為積極推動國家資通安全政策，加速建構國家資通 安全環境，以保障國家安全，維護社會公共利益"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "12. 下列何種標準是針對雲端服務個人隱私資料的保護？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "ISO/IEC 27018"
+            },
+            {
+                "letter": "B",
+                "text": "ISO/IEC 27701"
+            },
+            {
+                "letter": "C",
+                "text": "ISO/IEC 27001"
+            },
+            {
+                "letter": "D",
+                "text": "ISO/IEC 27017"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "13. 請問我國個人資料保護法列為特種個資，但歐盟 GDPR卻未 明確列入特種個資的個人資料是下列何項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "基因"
+            },
+            {
+                "letter": "B",
+                "text": "健康檢查"
+            },
+            {
+                "letter": "C",
+                "text": "生物特徵"
+            },
+            {
+                "letter": "D",
+                "text": "犯罪前科"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "14. 僅就資訊資產管理作業必須考慮的諸多因素中，下列敘述何 者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊資產分類"
+            },
+            {
+                "letter": "B",
+                "text": "資產盤點"
+            },
+            {
+                "letter": "C",
+                "text": "資訊資產分級"
+            },
+            {
+                "letter": "D",
+                "text": "安全控制措施"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "15. 下列何者「不」屬於資訊資產清冊可用來支援的項目？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "風險管理"
+            },
+            {
+                "letter": "B",
+                "text": "稽核活動"
+            },
+            {
+                "letter": "C",
+                "text": "事故回應"
+            },
+            {
+                "letter": "D",
+                "text": "財產報廢"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "16. 在建立資訊資產分級政策時，若某資產分類的依據是依其「對企業的營運影響」 ，下列何者較「不」屬於影響考量？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資產損失對公司聲譽的影響"
+            },
+            {
+                "letter": "B",
+                "text": "該資產對企業盈利能力的潛在影響"
+            },
+            {
+                "letter": "C",
+                "text": "資訊資產外洩對合作夥伴的潛在影響"
+            },
+            {
+                "letter": "D",
+                "text": "資產所需的技術維護成本"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "17. 針對資訊資產的盤點，下列何項資訊資產 「不」 須列入盤點？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "虛擬資產：如虛擬機器、雲端伺服器等"
+            },
+            {
+                "letter": "B",
+                "text": "久未使用但仍在線上的資料庫"
+            },
+            {
+                "letter": "C",
+                "text": "公司徵才公告"
+            },
+            {
+                "letter": "D",
+                "text": "員工用於工作的 平板電腦"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "18. 進行資訊資產分類時，｢加密系統作業管理程序」通常會歸 在下列四項中的何項類別？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "硬體"
+            },
+            {
+                "letter": "B",
+                "text": "環境"
+            },
+            {
+                "letter": "C",
+                "text": "文件"
+            },
+            {
+                "letter": "D",
+                "text": "軟體"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "19. 在定期進行資訊資產盤點的過程中，發現有些資產未被列入資產清單。這可能對資產管理有何直接影響？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資產的風險評估無法準確進行"
+            },
+            {
+                "letter": "B",
+                "text": "資產的可用性可能會受到影響"
+            },
+            {
+                "letter": "C",
+                "text": "資產的所有者無法進行適當的存取控制"
+            },
+            {
+                "letter": "D",
+                "text": "資產將喪失機密性"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "20. 某公司在進行資訊資產分級時，發現部分資產被多個業務部門使用，不同部門對該資產的重要性評估存在差異。為了確 保這類跨部門資產能夠被有效管理，應採用下列何項措施最 為適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "每個部門獨立分級，根據各部門的需求各自進行保 護"
+            },
+            {
+                "letter": "B",
+                "text": "跨部門共享的所有 資產，一律採用最高安全等級進 行保護"
+            },
+            {
+                "letter": "C",
+                "text": "透過跨部門協調達成共識，將資產設定為中等安全級別"
+            },
+            {
+                "letter": "D",
+                "text": "從有評估的部門中，選擇最高安全等級進行管理"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "21. 依據 ISO 27001:202 2標準條款要求有關組織應定義及應用 資訊安全風險處理過程之敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "考量風險評鑑結果，選擇適切之資訊安全風險處理 選項"
+            },
+            {
+                "letter": "B",
+                "text": "對所選定資訊安全風險處理選項， 其控制措施 皆選 擇不實作"
+            },
+            {
+                "letter": "C",
+                "text": "產生適用性聲明"
+            },
+            {
+                "letter": "D",
+                "text": "制定資訊安全風險處理計畫"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "22. 在風險評鑑過程，辨識出的低風險項目，多數常以下列何種 方式進行風險回應？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "風險保留（Risk Retention）"
+            },
+            {
+                "letter": "B",
+                "text": "風險避免（Risk Avoidance ）"
+            },
+            {
+                "letter": "C",
+                "text": "風險降低（Risk Reduction）"
+            },
+            {
+                "letter": "D",
+                "text": "風險轉移（Risk Transfer ）"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "23. 風險是指不確定性對目標的影響，或是損失的不確定性。下列何項「非」不確定性所指的三種情況之一？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "不確定事件是否發生"
+            },
+            {
+                "letter": "B",
+                "text": "不確定何時發生"
+            },
+            {
+                "letter": "C",
+                "text": "不確定發生的地點"
+            },
+            {
+                "letter": "D",
+                "text": "不確定造成的嚴重性"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "24. 關於資通安全（ Cyber Security）的風險擁有者（ Risk Owner ） 的角色描述，下列何者較「不」合適？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "風險擁有者負責評估責任範圍內的資訊安全風險， 並核定資通安全風險處理計畫"
+            },
+            {
+                "letter": "B",
+                "text": "風險擁有者應確保資風險處理計畫被妥善執行，以降低組織面臨的資通安全風險"
+            },
+            {
+                "letter": "C",
+                "text": "風險擁有者一定 要是資通安全領域的專業人士，才 有能力評估和處理資訊安全風險"
+            },
+            {
+                "letter": "D",
+                "text": "風險擁有者有責任與其他部門合作，共同識別、評 估和管理資訊安全風險"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "25. 如附圖所示。為辦理資通系統安全風險評鑑事宜，組織應訂 定該評鑑作業有關作業程序，依照國家資通安全研究院發行之《資通系統風險評鑑參考指引》所介紹之風險評鑑技術及方法，可使用下列何項工具與技術組合？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "2、3、4、5、6"
+            },
+            {
+                "letter": "B",
+                "text": "1、3、4、5、7"
+            },
+            {
+                "letter": "C",
+                "text": "1、2、4、6、8"
+            },
+            {
+                "letter": "D",
+                "text": "1、2、6、7、8"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "26. 關於存取控制技術的描述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "任意型存取控制（ Discretionary Access Control, DAC）是主體存取客體之權限由擁有者設定"
+            },
+            {
+                "letter": "B",
+                "text": "強制型存取控制（ Mandatory Access Control, MAC ） 是依照主體與客體之分類標籤（Classification Label）給予權限，即使是管理者也無法給予特別權 限"
+            },
+            {
+                "letter": "C",
+                "text": "角色為基礎的存取控制（Role -Based Access Control, RBAC）使用角色（ Role）來管理權限，對於使用者 位於同一個單位或執行相關的工作十分方便有效"
+            },
+            {
+                "letter": "D",
+                "text": "基於屬性的存取控制（Attribute Based Access Control, ABAC ）僅能透過單一屬性 設定存取控制來 達到安全的管控"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "27. 採用生物識別作為身分認證機制時，生物特徵識別系統的辨 識精確度會有其誤差值的存在，如果組織需要加強進出人員 安全管控時，下列何項是生物特徵識別系統要分別增加及減少誤差值的種類？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "增加 FRR（ False Rejected Rate ） 、減少 FAR（False Acceptance Rate）"
+            },
+            {
+                "letter": "B",
+                "text": "增加 FRR（ False Rejected Rate ） 、減少 CER （Crossover Error Rate）"
+            },
+            {
+                "letter": "C",
+                "text": "增加 FAR（False Acceptance Rate）、 減 少 FRR （False Rejected Rate）"
+            },
+            {
+                "letter": "D",
+                "text": "增加 CER（Crossover Error Rate ）、 減 少 FAR（False Acceptance Rate）"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "28. 如附圖所示 。在雲端服務的存取權限控管中，下列哪些做法 組合最能有效避免過度授予權限？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1、2、5、7"
+            },
+            {
+                "letter": "B",
+                "text": "1、3、5、6"
+            },
+            {
+                "letter": "C",
+                "text": "1、2、4、6"
+            },
+            {
+                "letter": "D",
+                "text": "1、2、5、6"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "29. 生物特徵辨識應用在存取權限控制時，所扮演的角色是下列 哪一項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "授權（ Authorization）"
+            },
+            {
+                "letter": "B",
+                "text": "身分驗證（Authentication）"
+            },
+            {
+                "letter": "C",
+                "text": "可問責（ Accountability ）"
+            },
+            {
+                "letter": "D",
+                "text": "正確率（ Accuracy）"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "30. 存取控制是用以控制使用者與系統、系統與系統之間進行資 訊交換和溝通，其概念是作業系統為控制一個主體 （Subject） ，能依照其所得到的權限進行客體（ Object）之存 取。請問附圖中的選項哪些可以作為客體？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "2、3、4"
+            },
+            {
+                "letter": "B",
+                "text": "1、4、5、6"
+            },
+            {
+                "letter": "C",
+                "text": "2、3、6"
+            },
+            {
+                "letter": "D",
+                "text": "1、2、5、6"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "31. 在一個醫療場域中，有不同的資料進出需求，下列針對存取 控制情境的描述何者較 「不」適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "應該採用白名單機制，限制未授權的連線"
+            },
+            {
+                "letter": "B",
+                "text": "醫療儀器可以直接透過網際網路遠端維護"
+            },
+            {
+                "letter": "C",
+                "text": "以防火牆區隔辦公區與診間"
+            },
+            {
+                "letter": "D",
+                "text": "讓外部網站可以顯示看診進度"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "32. 採用 FIDO2作為身分認證是目前的趨勢，關於 FIDO2的敘 述下列何者有誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "須加入 FIDO聯盟認證"
+            },
+            {
+                "letter": "B",
+                "text": "可以應用在企業內部作為身分認證"
+            },
+            {
+                "letter": "C",
+                "text": "可以應用在網際網路之金融應用"
+            },
+            {
+                "letter": "D",
+                "text": "是屬於零信任架構的一環"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "33. 政府零信任網路架構係參考 NIST零信任架構，同時結合向 上集中之防護需求，採取資源門戶部署（ Resource Portal - Based Deployment）方式，下列何項「不」屬於該核心機制？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "身分鑑別"
+            },
+            {
+                "letter": "B",
+                "text": "系統識別"
+            },
+            {
+                "letter": "C",
+                "text": "設備鑑別"
+            },
+            {
+                "letter": "D",
+                "text": "信任推斷"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "34. 關於 RuBAC（Rule -based Access Control ）、MAC（Mandatory Access Control ）、DAC（Discretionary Access Control） 、RoBAC （Role -Based Access Control）的描述，下列何者最「不」適 切？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "RuBAC根據安全規則來決定使用者是否有存取資源 的權限"
+            },
+            {
+                "letter": "B",
+                "text": "MAC是一種存取控制機制，其中存取權限由系統中 的政策決定，不允許使用者或擁有者更改"
+            },
+            {
+                "letter": "C",
+                "text": "DAC允許資源的擁有者或使用者決定誰可以存取該 資源，提供較大的靈活性"
+            },
+            {
+                "letter": "D",
+                "text": "RoBAC將存取控制權限分配給特定使用者，由存取 控制規則決定"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "35. 當公司允許員工使用外部生成式 AI服務 （如 ChatGPT ）時， 下列存取控制措施，何者最能有效保護公司機密資料不被洩 露？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "限制只能在公司內部網路中使用生成式 AI服務，並 通過 VPN進行監控"
+            },
+            {
+                "letter": "B",
+                "text": "要求員工在使用生成式 AI服務前，簽署保密協議， 承諾不輸入機密資料"
+            },
+            {
+                "letter": "C",
+                "text": "採用資訊分類，並 使用適當之過濾技術阻止機密資 料被輸入生成式 AI服務的系統中"
+            },
+            {
+                "letter": "D",
+                "text": "設置使用權限，僅允許經批准的員工使用生成式 AI 服務，並定期審核使用情況"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "36. 下列何者並非 RSA金鑰機制的相關特性？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "使用非對稱加密演算法"
+            },
+            {
+                "letter": "B",
+                "text": "使用單一金鑰加解密"
+            },
+            {
+                "letter": "C",
+                "text": "私密金鑰（private key ）不可交給他人"
+            },
+            {
+                "letter": "D",
+                "text": "公開金鑰（public key ）可公開讓有需要之人取得"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "37. 憑證管理中心（ CA）所管理的憑證中，有部分憑證已有安全 顧慮時，應運用下列何種處罝方式最為合適？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "註銷憑證"
+            },
+            {
+                "letter": "B",
+                "text": "憑證審核"
+            },
+            {
+                "letter": "C",
+                "text": "發佈憑證"
+            },
+            {
+                "letter": "D",
+                "text": "交互認證"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "38. 如附圖所示，在檢查一個利用第三方服務的電子資料交換系 統（ EDI）應用情況時，資訊安全人員應該確認和證實哪些 項目？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1、3"
+            },
+            {
+                "letter": "B",
+                "text": "1、4"
+            },
+            {
+                "letter": "C",
+                "text": "2、3"
+            },
+            {
+                "letter": "D",
+                "text": "3、4"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "39. 「生日攻擊法」 （ Birthday Attack ）主要針對下列何種加密演 算法進行 攻擊？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "MD5"
+            },
+            {
+                "letter": "B",
+                "text": "Rijndael"
+            },
+            {
+                "letter": "C",
+                "text": "3DES"
+            },
+            {
+                "letter": "D",
+                "text": "RSA"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "40. 2024年9月親俄駭客組織 NoName057 聲稱，將對臺灣政府 機關、關鍵基礎設施的網站發動一系列的 DDoS攻擊。請問 此項攻擊主要目的是對被攻擊目標下列何項資訊安全要素 造成影響？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "機密性（ Confidentiality ）"
+            },
+            {
+                "letter": "B",
+                "text": "完整性（ Integrity）"
+            },
+            {
+                "letter": "C",
+                "text": "可用性（ Availability ）"
+            },
+            {
+                "letter": "D",
+                "text": "可歸責性（Accountability ）"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "41. 關於資訊安全事件相關稽核日誌的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "系統管理者使用而觸發的系統稽核日誌， 皆先留存日 後再予以 審查"
+            },
+            {
+                "letter": "B",
+                "text": "組織可先討論針對系統稽核日誌關心的項目審查，一 旦觸發時可優先 通知權責主管進行後續處理"
+            },
+            {
+                "letter": "C",
+                "text": "系統管理者因為管理上的需要，可使用到共用的管理 帳號"
+            },
+            {
+                "letter": "D",
+                "text": "網路設備留存的稽核日誌，雖然有異常登入的紀錄，但 已被阻擋未有資訊安全事故發生，就不須再予以審查"
+            }
+        ],
+        "answer": "D",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "42. 依據 SP 800 -61 Rev. 2 - Computer Security Incident Handling Guide文件對於事故回應生命週期（ Incident Response Life Cycle）之敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "準備（Preparation ）"
+            },
+            {
+                "letter": "B",
+                "text": "偵測與分析（ Detection and Analysis）"
+            },
+            {
+                "letter": "C",
+                "text": "封鎖、根除與復原（Containment, Eradication and Recovery ）"
+            },
+            {
+                "letter": "D",
+                "text": "備份（Backup ）"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "43. 關於一般資安事件與重大資安事故的 描述，下列何者 較「不」 適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "事件處理時間超過規定時，會升級為事故"
+            },
+            {
+                "letter": "B",
+                "text": "影響資安 指標達成之 因素或事項者，依其嚴重性評估 不會被判定為事件"
+            },
+            {
+                "letter": "C",
+                "text": "一般資安事件與重大資安事故可依照對公司組織的 影響程度作為區分"
+            },
+            {
+                "letter": "D",
+                "text": "重要資訊設備失效，通常會歸類為重大資安事故"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "44. 關於資安事件通報 ，下列何項較 「不」是主要目的？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "維護公司形象"
+            },
+            {
+                "letter": "B",
+                "text": "遵守法律法規"
+            },
+            {
+                "letter": "C",
+                "text": "獲得保險理賠"
+            },
+            {
+                "letter": "D",
+                "text": "快速解決問題"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "45. 如附圖所示。當公私部門妥善收集與共享網路威脅情資，將 能更快地識別威脅並找出因應之道，進而讓尚未受到威脅衝之組織能因此主動防禦減少事件發生之可能性。我國「國家 資通安全研究院」已於《領域 ISAC實務建置指引》定義 「ISAC情資類型」包含：資安訊息情資（ ANA） 、資安預警 情資（ EWA） 、網頁攻擊情資（ DEF） 、入侵攻擊情資（INT ）、 回饋情資（FBI ）等五類。本題提供之情資內容如附圖， 請 問依情資最適合判別為 下列何者 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "入侵攻擊情資（ INT）"
+            },
+            {
+                "letter": "B",
+                "text": "資安預警情資（ EWA）"
+            },
+            {
+                "letter": "C",
+                "text": "網頁攻擊情資（ DEF）"
+            },
+            {
+                "letter": "D",
+                "text": "回饋情資（FBI ）"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "46. 關於營運持續性計畫的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "營運持續性計畫考量完成時間即可，各關鍵步驟時間 有可能會有些微差距"
+            },
+            {
+                "letter": "B",
+                "text": "如果實施營運持續計畫需要供應商的協助，其到場時 間亦須納入計畫中"
+            },
+            {
+                "letter": "C",
+                "text": "因為營運持續計畫演練時，操作同仁皆已於異地準備，所以交通時間可以不需納入考量"
+            },
+            {
+                "letter": "D",
+                "text": "啟動營運持續計畫，如果設備有前置準備時間，已於 演練前準備完成，該步驟可以不需納入考量"
+            }
+        ],
+        "answer": "C",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "47. 關於組織進行營運衝擊分析所需包含之內容敘述，下列何者 錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "辨識關鍵業務相關之活動"
+            },
+            {
+                "letter": "B",
+                "text": "辨識各活動中斷時，會對機關所造成的衝擊"
+            },
+            {
+                "letter": "C",
+                "text": "確認各活動之最小可容忍中斷時間（ Maximum Tolerable Period of Disruption, MTPD）"
+            },
+            {
+                "letter": "D",
+                "text": "根據各活動復原之優先順序加以分類，藉以鑑別機 關之關鍵活動"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "48. 關於災害復原（ Disaster Recovery ）和營運持續（ Business Continuity ）差別的敘述，下列何者 較「不」適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "災害復原確保業務流程所需要的資源能夠得以回復的程序"
+            },
+            {
+                "letter": "B",
+                "text": "災害復原強調業務的韌性以及客戶關係的管理"
+            },
+            {
+                "letter": "C",
+                "text": "營運持續規劃因應事故或營運中斷的策略"
+            },
+            {
+                "letter": "D",
+                "text": "營運持續使業務能在預先規劃的服務等級上持續運行"
+            }
+        ],
+        "answer": "B",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "49. 災難發生時，下列何項是最重要的？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "物理資產的保護"
+            },
+            {
+                "letter": "B",
+                "text": "人員生命安全的保護"
+            },
+            {
+                "letter": "C",
+                "text": "維持公司的股票價值"
+            },
+            {
+                "letter": "D",
+                "text": "市場行銷活動的持續進行"
+            }
+        ],
+        "answer": "A",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "50. 請問下列何項備援方式，異地備援機制所需時間最長 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "冷備援（ Cold site ）"
+            },
+            {
+                "letter": "B",
+                "text": "熱備援（ Hot site）"
+            },
+            {
+                "letter": "C",
+                "text": "溫備援（ Warm site ）"
+            },
+            {
+                "letter": "D",
+                "text": "公司機房內建備援"
+            }
+        ],
+        "answer": "",
+        "source": "113-2+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "1. ISO 27001 ISMS 最新版本已於 2022年修正發布了，相較於 前一個 2013年版本，該文件增加了哪些安全管理用詞？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Cybersecurity ；Information Security"
+            },
+            {
+                "letter": "B",
+                "text": "Privacy Protection ；Information Security"
+            },
+            {
+                "letter": "C",
+                "text": "Cybersecurity ；Privacy Protection ；Information Security"
+            },
+            {
+                "letter": "D",
+                "text": "Cybersecurity ；Information Security ；Data Protection"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "2. 下列何項是最有可能把資料被歸類為「機密」等級的情境？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "公司員工皆可訪問的內部通訊錄"
+            },
+            {
+                "letter": "B",
+                "text": "供應商提供查閱的產品目錄"
+            },
+            {
+                "letter": "C",
+                "text": "客戶資料中儲存的信用卡號碼"
+            },
+            {
+                "letter": "D",
+                "text": "公司對外公開發布的新聞稿"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "3. 資 訊 安 全 管 理 系 統 （ Information Security Management System，ISMS）的導入步驟中，稽核活動的主要目的為下列 何項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "確保該管理系統的完整性"
+            },
+            {
+                "letter": "B",
+                "text": "評估員工的績效表現"
+            },
+            {
+                "letter": "C",
+                "text": "檢查環境硬體設備的完整程度"
+            },
+            {
+                "letter": "D",
+                "text": "確保該管理系統內部控制的有效性"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "4. 關於保護資料之機密性、完整性與可用性描述，下列何項正 確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "應用系統的可用性對組織而言，皆為同等級重要"
+            },
+            {
+                "letter": "B",
+                "text": "公司內部員工的個人資訊，不在機密性的保護範圍"
+            },
+            {
+                "letter": "C",
+                "text": "對所有資訊資料而言，機密性最為重要"
+            },
+            {
+                "letter": "D",
+                "text": "組織之公開資訊對外公布時，資料的完整性需審查 後再開放"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "5. 資訊安全長（ CISO）是組織中負責資訊安全的最高級別的管 理職位，下列資訊安全長主要職責 何者較「不」適切 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊系統例行性維護"
+            },
+            {
+                "letter": "B",
+                "text": "評估和管理資訊安全風險"
+            },
+            {
+                "letter": "C",
+                "text": "負責確保已施行適當的安全控制措施"
+            },
+            {
+                "letter": "D",
+                "text": "資訊安全策略制定"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "6. 歐盟執委會 （ European Commission ，EC） 修正後的 2022/2555 （EU） 指令 （即 Security of Network and Information Systems ， NIS 2 Directive ） ，已於 112年1月16日生效，以改善歐盟 現有的資訊安全態勢，本次修正內容包括擴大該指令所適用 的類別與規模，附圖中哪些產業是本次新納管的產業 （Sectors）？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1、2、3、5、6"
+            },
+            {
+                "letter": "B",
+                "text": "1、4、5、6"
+            },
+            {
+                "letter": "C",
+                "text": "2、3、6"
+            },
+            {
+                "letter": "D",
+                "text": "1、4、6"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "7. 下列「資通安全管理法」的哪一項子法，有定義資通安全演 練作業項目之子法為何？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資通安全責任等級分級辦法"
+            },
+            {
+                "letter": "B",
+                "text": "資通安全管理法施行細則"
+            },
+            {
+                "letter": "C",
+                "text": "資通安全情資分享辦法"
+            },
+            {
+                "letter": "D",
+                "text": "資通安全事件通報及應變辦法"
+            }
+        ],
+        "answer": "B",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "8. 關於個人資料保護法（以下簡稱：個資法）之規定，下列何 者敘述有誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "個資法第三條所規範之當事人權利，不得預先要求 拋棄"
+            },
+            {
+                "letter": "B",
+                "text": "個資法第八條規定蒐集個人資料應明確告知當事人"
+            },
+            {
+                "letter": "C",
+                "text": "當事人查詢或請求閱覽個人資料或製給複製本者， 可以收取必要之成本費用"
+            },
+            {
+                "letter": "D",
+                "text": "對個人資料之蒐集或處理應有特定目的"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "9. 下列何者行為違反個人資料保護法之規定？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "特定目的消失時，公司即刪除該個資"
+            },
+            {
+                "letter": "B",
+                "text": "首次利用非由當事人提供之個人資料，立即告知當 事人取得來源及應行告知之事項"
+            },
+            {
+                "letter": "C",
+                "text": "保險公司要求出險之被保險人提供相關之醫療記錄"
+            },
+            {
+                "letter": "D",
+                "text": "當事人請求閱覽其個人資料，公司於 45天後告知不 予同意"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "10. 資通安全管理法將資通安全事件分為四級，請問下列何項是 屬於三級資通安全事件？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "非核心業務資訊遭嚴重洩漏，或未涉及關鍵基礎設 施維運之核心業務資訊遭輕微洩漏"
+            },
+            {
+                "letter": "B",
+                "text": "非核心業務資訊遭輕微洩漏"
+            },
+            {
+                "letter": "C",
+                "text": "一般公務機密、敏感資訊或涉及關鍵基礎設施維運 之核心業務資訊遭嚴重洩漏，或國家機密遭洩漏"
+            },
+            {
+                "letter": "D",
+                "text": "未涉及關鍵基礎設施維運之核心業務資訊遭嚴重洩 漏，或一般公務機密、敏感資訊或涉及關鍵基礎設 施維運之核心業務資訊遭輕微洩漏"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "11. 關於中華民國「個人資料保護法」中明定「當事人就其個人 資料依本法規定行使之下列權利，不得預先拋棄或以特約限 制之」的敘述，下列何項錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "查詢或請求閱覽"
+            },
+            {
+                "letter": "B",
+                "text": "請求補充或更正"
+            },
+            {
+                "letter": "C",
+                "text": "請求公開或製給複製本"
+            },
+            {
+                "letter": "D",
+                "text": "請求停止蒐集、處理或利用"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "12. 下列何者 「非」 屬 GDPR（General Data Protection Regulation ） 明確列入 之特種個資？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "哲學信仰"
+            },
+            {
+                "letter": "B",
+                "text": "生物特徵"
+            },
+            {
+                "letter": "C",
+                "text": "犯罪前科"
+            },
+            {
+                "letter": "D",
+                "text": "政治意見"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "13. 關於機密性與隱私權保護的敘述，下列何者有誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "機密性通常結合密碼學的方式來保護資料"
+            },
+            {
+                "letter": "B",
+                "text": "隱私權保護其中一個作法是去識別化儲存"
+            },
+            {
+                "letter": "C",
+                "text": "機密性與隱私權保護的控制機制無法共存"
+            },
+            {
+                "letter": "D",
+                "text": "良好權限控管機制有助於強化機密性或隱私權保護"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "14. 關於資產盤點 與風險評估 的重要性，下列敘述何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資產盤點 與風險評估 可以幫助組織確定其所有的資 訊資產，只涵蓋硬體與軟體。就可以讓組織了解其 擁有哪些資產以及這些資產的位置"
+            },
+            {
+                "letter": "B",
+                "text": "資產盤點 與風險評估 可以幫助組織確定其資訊資產 的價值，包括其對業務運營的重要性和價值。這可 以讓組織確定保護這些資產的重要性和程度"
+            },
+            {
+                "letter": "C",
+                "text": "資產盤點 與風險評估 可以幫助組織確定其資訊資產 的風險，包括潛在的威脅和弱點"
+            },
+            {
+                "letter": "D",
+                "text": "資產盤點 與風險評估 可以幫助組織對其資訊資產進 行管理，包括資產的維護、儲存和刪除等。這可以 確保資產被正確管理和保護"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "15. 關於實施資訊資產盤點作業必須考慮的諸多因素中，下列敘 述何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊資產的價值"
+            },
+            {
+                "letter": "B",
+                "text": "資訊資產的名稱"
+            },
+            {
+                "letter": "C",
+                "text": "資訊資產的存放位置"
+            },
+            {
+                "letter": "D",
+                "text": "資訊資產的風險"
+            }
+        ],
+        "answer": "B",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "16. 資訊資產分類分級的目的為下列何項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "增加資產價值"
+            },
+            {
+                "letter": "B",
+                "text": "管理資產風險"
+            },
+            {
+                "letter": "C",
+                "text": "提高資產可用性"
+            },
+            {
+                "letter": "D",
+                "text": "降低資產建置成本"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "17. 關於實施「資訊分類」作業主要目的之敘述，下列何者最為 適切？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "防止儲存在媒體的資訊被經授權的移除"
+            },
+            {
+                "letter": "B",
+                "text": "防止儲存在媒體的資訊被經授權的揭露"
+            },
+            {
+                "letter": "C",
+                "text": "確保組織重要的資訊受到適切等級的保護"
+            },
+            {
+                "letter": "D",
+                "text": "確保公開的資訊受到適切等級的保護"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "18. 關於紙本類之資訊資產保護原則，下列敘述何者最 「不」 適切？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "內部使用級之紙本類資訊資產，於保管人員暫時離 開座位時，不得置於開放空間處"
+            },
+            {
+                "letter": "B",
+                "text": "內部使用級之紙本類資訊資產，於保管人員長時間 離開座位時，應放置於上鎖空間或上鎖櫃並隨時上 鎖"
+            },
+            {
+                "letter": "C",
+                "text": "密級之紙本類資訊資產，於保管人員暫時離開座位 時，得置於開放空間處"
+            },
+            {
+                "letter": "D",
+                "text": "密級之紙本類資訊資產，於保管人員進出上鎖空間 或借用上鎖櫃之鑰匙時應作成紀錄"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "19. 盤點資訊資產時，最可能是使用下列何項分級的基本原則？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資產的物理大小"
+            },
+            {
+                "letter": "B",
+                "text": "採購成本和效益"
+            },
+            {
+                "letter": "C",
+                "text": "資產外觀的可愛程度"
+            },
+            {
+                "letter": "D",
+                "text": "重要性和敏感性"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "20. 若公司機密等級區分為四個等級：極機密、機密、內部使用、 一般。有一份資料僅供公司同仁使用、查閱，亦不須加密。 請問這份資料歸類於下列何項機密等級 最為合適？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "極機密"
+            },
+            {
+                "letter": "B",
+                "text": "機密"
+            },
+            {
+                "letter": "C",
+                "text": "內部使用"
+            },
+            {
+                "letter": "D",
+                "text": "一般"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "21. 如附圖所示，下列何項內容為風險回應的主要方式？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "123"
+            },
+            {
+                "letter": "B",
+                "text": "12345"
+            },
+            {
+                "letter": "C",
+                "text": "1245"
+            },
+            {
+                "letter": "D",
+                "text": "145"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "22. 依據 CNS 27001:2023 標準條款要求有關組織應定義及應用 資訊安全風險評鑑過程之敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "建立及維持資訊安全風險準則"
+            },
+            {
+                "letter": "B",
+                "text": "資訊安全風險準則應包含風險接受準則以及執行資 訊安全風險評鑑之準則"
+            },
+            {
+                "letter": "C",
+                "text": "識別資訊安全風險包含識別資訊安全管理系統範圍 內與喪失資訊之機密性、完整性、可用性以及不可 否認性相關聯之風險"
+            },
+            {
+                "letter": "D",
+                "text": "分析資訊安全風險以識別風險實際發生時， 應包含 可能導致的潛在後 果以及風險發生的 實際可能性"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "23. 在風險處理的成本考量下，下列何種風險處理策略可能是成 本最高的？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "接受所有風險"
+            },
+            {
+                "letter": "B",
+                "text": "將風險進行轉移"
+            },
+            {
+                "letter": "C",
+                "text": "盡力降低風險"
+            },
+            {
+                "letter": "D",
+                "text": "追求零風險"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "24. 颱風、水災及地震等是屬於下列何項風險事件？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "環境災害"
+            },
+            {
+                "letter": "B",
+                "text": "蓄意破壞"
+            },
+            {
+                "letter": "C",
+                "text": "設施功能失效"
+            },
+            {
+                "letter": "D",
+                "text": "資訊事件"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "25. 關於資通安全風險管理內容的描述，下列何者較為正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資通安全風險管理是循環的過程，應該定期重新評 鑑風險，並根據風險的變動調整控制措施"
+            },
+            {
+                "letter": "B",
+                "text": "資通安全風險管理應該排除所有風險，確保組織完 全沒有風險曝露"
+            },
+            {
+                "letter": "C",
+                "text": "僅需進行一次性的資通安全風險評鑑，資通安全風 險一旦識別和處理，便不會發生變化"
+            },
+            {
+                "letter": "D",
+                "text": "資通安全風險管理僅需著重法律和規範要求的符 合，不需考慮組織的特定資安需求和環境現況"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "26. 若採行多因素身分驗證，除了原本的帳號密碼之外，下列何 項的內容可以當成第二階段認證的方式？ （請選擇最佳的組 合）",
+        "options": [
+            {
+                "letter": "A",
+                "text": "個別員工之 IC識別證、傳輸至個人 手機的隨機驗證 碼"
+            },
+            {
+                "letter": "B",
+                "text": "身份證字號 、傳輸至個人 手機的隨機驗證碼"
+            },
+            {
+                "letter": "C",
+                "text": "身份證字號 、出生年月日"
+            },
+            {
+                "letter": "D",
+                "text": "出生年月日 、個別員工之 IC識別證"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "27. 關於存取控制的基本管理敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "「責任分擔」是避免高機密資訊由某人完整的持有"
+            },
+            {
+                "letter": "B",
+                "text": "「最低權限」要求每個人都只能擁有完成任務的最 低權限"
+            },
+            {
+                "letter": "C",
+                "text": "「知的必要性」是指對於負責的業務需求性有「知 的權利」"
+            },
+            {
+                "letter": "D",
+                "text": "「資訊分類」使用者必須完整掌握其權限以外的對 應系統與資料"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "28. 關於身份認證技術的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "採用生物資訊認證技術需考量錯誤接受率（ FAR） 與錯誤拒絕率（ FRR）"
+            },
+            {
+                "letter": "B",
+                "text": "指紋屬於所持之物（ Something you have ）"
+            },
+            {
+                "letter": "C",
+                "text": "一次性密碼（ OTP）屬於所知之事（ Something you know）"
+            },
+            {
+                "letter": "D",
+                "text": "申辦時提供雙證件確認屬多因子認證（ MFA）"
+            }
+        ],
+        "answer": "B",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "29. 系統管理人員應該對系統使用者的密碼實施一些管制措施， 下列何項措施「不」是管理人員會採行的管制措施？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "強制要求使用者定期變更密碼"
+            },
+            {
+                "letter": "B",
+                "text": "允許與先前密碼重複"
+            },
+            {
+                "letter": "C",
+                "text": "限制指定時間內連續嘗試登入的次數"
+            },
+            {
+                "letter": "D",
+                "text": "要求密碼的複雜度"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "30. 如附圖所示，採用生物識別作為身分認證機制時，生物特徵 識別系統的辨識精確度會有其誤差值的存在，請問附圖中哪 些是「最」常用以評估誤差值的種類 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1、2、3"
+            },
+            {
+                "letter": "B",
+                "text": "1、2"
+            },
+            {
+                "letter": "C",
+                "text": "2、4"
+            },
+            {
+                "letter": "D",
+                "text": "1、4"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "31. 關於下列資安作為，包含 行政管管理類型、實體類型、技術 類型等三項，各有其所相對應的安全控制方式。請問附圖中 的項目哪些是屬於「技術」類型？ （請選擇最適組合）",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1、2、3"
+            },
+            {
+                "letter": "B",
+                "text": "4、5、6"
+            },
+            {
+                "letter": "C",
+                "text": "3、4、7"
+            },
+            {
+                "letter": "D",
+                "text": "1、4、6"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "32. FIDO是確保登入流程中伺服器透過與終端裝置協定的安全 機制。請問下列何項敘述有誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "由IETF（網際網路工程任務組織）所訂定的一套網 路識別標準"
+            },
+            {
+                "letter": "B",
+                "text": "這套識別標準透過公開金鑰加密（ Public Key Cryptography ）的架構進行多重因素驗證（ MFA）以 及生物辨識登入來強力且嚴密地保護雲端帳號的個資"
+            },
+            {
+                "letter": "C",
+                "text": "FIDO是Fast Identity Online 的縮寫"
+            },
+            {
+                "letter": "D",
+                "text": "FIDO是採用公開金鑰基礎架構的驗證模式，在 FIDO認證伺服器端（ FIDO Authentication Server ） 只保存相對應的公鑰，而私鑰則僅保存在使用者的 裝置端，因此使用者在登入時只需提供個資給終端 裝置解鎖私鑰，再透過這個步驟解鎖公鑰進行登入"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "33. 零信任架構 （ZTA）的假設前提是：在確認可信之前，沒有 任何連線、使用者或資產可以信任。主要目的是解決現今網 路環境複雜造成信任邊界不明之資安窘境，期望透過對任何 資料存取皆永不信任且必須驗證的原則，達成不論在何時何 地存取資料皆保證一致安全性之相關技術。請問下列關於 ZTA的描述何者較「不」正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "聚焦保護網路存取，非保護資料 /應用存取"
+            },
+            {
+                "letter": "B",
+                "text": "參考美國國家標準技術研究院（ NIST）零信任架 構，採取資源門戶之部署方式（ Resource Portal - Based Deployment ） ，包含 3大核心機制：身分鑑 別、設備鑑別、信任推斷"
+            },
+            {
+                "letter": "C",
+                "text": "根據美國國家標準技術研究院（ NIST）頒布標準文 件NIST SP800 -207將ZTA分成核心組件與支援組"
+            },
+            {
+                "letter": "D",
+                "text": "ZTA架構中的決策引擎組件是負責接收存取請求、 決定允許與否與授予存取憑證"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "34. 下列何項「不」是資料庫的資料加密方式？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資料遮罩（Data Masking ）"
+            },
+            {
+                "letter": "B",
+                "text": "透明資料加密（ Transparent Data Encryption ，TDE）"
+            },
+            {
+                "letter": "C",
+                "text": "資料欄位加密"
+            },
+            {
+                "letter": "D",
+                "text": "資料庫檔案加密"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "35. 關於僅知原則（ Need to Know ） 、最小權限原則（ Principle of Least Privilege ） 、僅用原則（ Need to Use ）的描述，下列何 者最「不」適切 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "僅知原則強調只有當成員需要特定資訊來完成其職 務時，才應該給予存取該資訊的權限"
+            },
+            {
+                "letter": "B",
+                "text": "最小權限原則要求給予成員執行其工作所需的最少 權限"
+            },
+            {
+                "letter": "C",
+                "text": "僅用原則指出應該限制成員對系統資源的存取，以 防止資訊洩漏和不當使用"
+            },
+            {
+                "letter": "D",
+                "text": "僅知原則、僅用原則及最小權限原則 也可應用 在資 料加密之 理論基礎"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "36. 為確保資料安全，有效降低駭客入侵，最「不」應該進行下 列何項措施？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "建立強大的密碼和帳戶管理，實施單一身份驗證"
+            },
+            {
+                "letter": "B",
+                "text": "建立備份和恢復計劃，或是高可用性機制"
+            },
+            {
+                "letter": "C",
+                "text": "使用加密技術"
+            },
+            {
+                "letter": "D",
+                "text": "定期進行安全測試和漏洞掃描"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "37. 關於對稱式加密（ Symmetric Encryption ）與非對稱式加密 （Asymmetric Encryption ）的敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "非對稱式加密算法包括 DES、3DES、AES等，這些 算法使用相同的密鑰對資料進行加密和解密"
+            },
+            {
+                "letter": "B",
+                "text": "對稱式加密使用相同的密鑰（也稱為加密鑰）來加"
+            },
+            {
+                "letter": "C",
+                "text": "非對稱式加密是一種加密技術，使用一對密鑰（公 鑰和私鑰）來加密和解密資料"
+            },
+            {
+                "letter": "D",
+                "text": "對稱式加密需要發送方和接收方共享相同的密鑰， 因此密鑰的管理和分發比較困難"
+            }
+        ],
+        "answer": "B",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "38. 數位簽章 驗證程序 ，是執行附圖中的哪些作業行為？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "2、4"
+            },
+            {
+                "letter": "B",
+                "text": "1、4"
+            },
+            {
+                "letter": "C",
+                "text": "2、3"
+            },
+            {
+                "letter": "D",
+                "text": "1、5"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "39. 關於密碼技術使用的基本要求， 兼顧成本與效率之考量， 下 列敘述何項 最為適切 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "選用密碼技術時，須納入適用法律及法規要求事項"
+            },
+            {
+                "letter": "B",
+                "text": "選用密碼技術時， 無須考量資訊機密性"
+            },
+            {
+                "letter": "C",
+                "text": "不論所要求保護資訊分類之等級，密碼演算法的強 度皆須為一致"
+            },
+            {
+                "letter": "D",
+                "text": "使用密碼技術主要用以保護使用者端點裝置上資 訊，網路傳輸不在考量範圍內"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "40. 關於密碼學（ Cryptography ）所能達成之主要目的敘述，下 列何項最「不」適切？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "機密性（ confidentiality ）"
+            },
+            {
+                "letter": "B",
+                "text": "完整性（ Integrity）"
+            },
+            {
+                "letter": "C",
+                "text": "可用性（ Availability ）"
+            },
+            {
+                "letter": "D",
+                "text": "不可否認性（ Non-Repudiation ）"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "41. 當資訊安全事故發生時，下列敘述何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊安全事故的發生，最好將細節全部記錄下來， 以做日後分析使用"
+            },
+            {
+                "letter": "B",
+                "text": "因為是資訊安全事故，僅對內部告知，細節要求不 需告知與資訊處理相關的供應商"
+            },
+            {
+                "letter": "C",
+                "text": "資訊安全事故發生如果無法找到根本原因，可以先 予以結案"
+            },
+            {
+                "letter": "D",
+                "text": "因為成本資源的限制，增加此資訊安全事故不再重 複發生的控制措施，可於日後再實施"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "42. 關於系統稽核日誌的保護機制敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "稽核日誌紀錄留存的時間，應以設備硬體空間能儲 存多久的時間而制定"
+            },
+            {
+                "letter": "B",
+                "text": "系統管理與使用者，需要參考稽核日誌的結果，所 以存取權限設定可予以開放"
+            },
+            {
+                "letter": "C",
+                "text": "因應系統稽核日誌也是資訊安全事故的有效證據， 所以控管存取權限是最重要的議題"
+            },
+            {
+                "letter": "D",
+                "text": "當保留稽核日誌紀錄受到防毒軟體的限制時，可考 量不予以留存"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "43. 關於資安事故通報處理過程之敘述，下列何者有誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "事故通報 僅能依正式之書面表單 向權責主管進行通 報"
+            },
+            {
+                "letter": "B",
+                "text": "事故處理單位應迅速處理以減輕公司損失"
+            },
+            {
+                "letter": "C",
+                "text": "事故處理完成後，應將處理過程及結果進行報告"
+            },
+            {
+                "letter": "D",
+                "text": "事故處理完成後，應分析事故發生原因，進行矯正 措施"
+            }
+        ],
+        "answer": "C",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "44. 下列何項「不」是執行資安事件通報時 必須提供的資訊？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "受影響的系統及範圍"
+            },
+            {
+                "letter": "B",
+                "text": "事件發生的時間"
+            },
+            {
+                "letter": "C",
+                "text": "嫌疑人的身份"
+            },
+            {
+                "letter": "D",
+                "text": "預估可能的處理時間"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "45. 資安事故的通報程序「不」包括下列何項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "向連絡窗口通報"
+            },
+            {
+                "letter": "B",
+                "text": "記錄相關細節"
+            },
+            {
+                "letter": "C",
+                "text": "向警察機關報案"
+            },
+            {
+                "letter": "D",
+                "text": "產生事故 結案報告"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "46. 關於資訊備份的敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊允許可遺失的時間，就是備份必須實施的頻率 依據"
+            },
+            {
+                "letter": "B",
+                "text": "備份媒體因為有機密性的考量，所以適時的加密是 要增加的機制"
+            },
+            {
+                "letter": "C",
+                "text": "確認備份媒體的可用性，是定期需要實施的機制"
+            },
+            {
+                "letter": "D",
+                "text": "備份媒體置放於異地後， 無須定期盤點"
+            }
+        ],
+        "answer": "D",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "47. 關於實作營運持續的敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "營運持續實作的所有過程，皆須以文件化程序留存 使用"
+            },
+            {
+                "letter": "B",
+                "text": "啟動營運持續實作過程時，操作同仁須具備一定的 經驗及能力"
+            },
+            {
+                "letter": "C",
+                "text": "營運持續實作時可允許中斷時間的依據，需與規劃 階段的時間相符合"
+            },
+            {
+                "letter": "D",
+                "text": "營運持續的實作時間與資訊部門可提供資源有所相 關，實作時間無 須符合管理階層同意的持續性目標"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "48. 試問有關復原時間目標（ Recovery Time Objective ，RTO）與 復原點目標（ Recovery Point Objective ，RPO）之敘述，下列 何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "復原點目標是指在組織發生中斷事件後，該組織就"
+            },
+            {
+                "letter": "B",
+                "text": "復原點目標 主要觀察與評判該機關執行資料備份與 備份資料異地存放之頻率，以做為決定是否實施資 料備份與備份頻率"
+            },
+            {
+                "letter": "C",
+                "text": "復原時間目標是指機關於發生中斷事件後，該機關 對於回復其所提供產品或服務之時間性目標"
+            },
+            {
+                "letter": "D",
+                "text": "主要是做為 機關衡量針對該關鍵活動所具備之營運 持續能力"
+            }
+        ],
+        "answer": "A",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "49. 下列何種系統備援方案提供了最快的恢復時間？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "熱備援"
+            },
+            {
+                "letter": "B",
+                "text": "冷備援"
+            },
+            {
+                "letter": "C",
+                "text": "暖備援"
+            },
+            {
+                "letter": "D",
+                "text": "離線備份"
+            }
+        ],
+        "answer": "B",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "50. 異地備援為將企業內所需之資料 /系統，分開兩地同步存放。 請問關於異地備援的說明下列何項最「不」 適切？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "當一地發生事故時，另一地能持續接手運轉提供服務"
+            },
+            {
+                "letter": "B",
+                "text": "有了異地備援便無資料丟失之風險"
+            },
+            {
+                "letter": "C",
+                "text": "可適用於需要業務不中斷的企業組職"
+            },
+            {
+                "letter": "D",
+                "text": "異地備援的建置 可能導致投入 成本增加"
+            }
+        ],
+        "answer": "",
+        "source": "113-1+I11資訊安全管理概論.pdf"
+    },
+    {
+        "question": "1. 關於資訊安全管理系統的敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "ISO 27001 ：2022是目前最新版本"
+            },
+            {
+                "letter": "B",
+                "text": "建立資訊安全管理系統必須以 ISO 27001 為架構"
+            },
+            {
+                "letter": "C",
+                "text": "機密性、可用性、完整性是 ISO 27001 最主要的資 安3要素"
+            },
+            {
+                "letter": "D",
+                "text": "ISO 27001 資訊安全管理系統是一個持續改善的架構"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "2. 使用微軟提供的功能將檔案加密，主要目的是增加下列資訊 安全的何種特性？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "可歸責性（ Accountability ）"
+            },
+            {
+                "letter": "B",
+                "text": "可用性（ Availability ）"
+            },
+            {
+                "letter": "C",
+                "text": "機密性（ Confidentiality ）"
+            },
+            {
+                "letter": "D",
+                "text": "完整性（ Integrity）"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "3. 關於確保資訊安全機密性的方法，下列敘述何者 較「不」 正 確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "建立防火牆"
+            },
+            {
+                "letter": "B",
+                "text": "限制資料存取權限"
+            },
+            {
+                "letter": "C",
+                "text": "使用多因素身份驗證"
+            },
+            {
+                "letter": "D",
+                "text": "定期更新修補程式以及病毒碼"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "4. 關於維護資料完整性之控制措施，下列敘述何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "密碼學技術"
+            },
+            {
+                "letter": "B",
+                "text": "防火牆"
+            },
+            {
+                "letter": "C",
+                "text": "資料庫備份"
+            },
+            {
+                "letter": "D",
+                "text": "電子郵件加密"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "5. 若要驗證資訊安全管理系統，且能有效達成稽核作業，如稽 核方案之管理、內部稽核之執行 等，可參考下列哪一項標 準？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "ISO 27002"
+            },
+            {
+                "letter": "B",
+                "text": "ISO 27007"
+            },
+            {
+                "letter": "C",
+                "text": "ISO 27017"
+            },
+            {
+                "letter": "D",
+                "text": "ISO 27037"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "6. 依據資通安全責任等級分級辦法之規定，下列有關資通安全 責任等級的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "業務涉及全國性民眾服務或跨特定非 公務機關共用 性資通系統之維運，其資通安全責任等級為 A級"
+            },
+            {
+                "letter": "B",
+                "text": "業務涉及公務機關捐助、資助或研發之國家核心科 技資訊之安全維護及管理，其資通安全責任等級為 B級"
+            },
+            {
+                "letter": "C",
+                "text": "各機關維運自行或委外設置、開發且具權限區分及管 理功能之資通系統者，其資通安全責任等級為 A級"
+            },
+            {
+                "letter": "D",
+                "text": "無資通系統但提供資通服務，其資通安全責任等級 為E級"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "7. T通訊公司為我國政府依照資通安全法相關規定，列為資通 安全責任等級 A級之特定非公務機關。假設其發生第三級 資通安全事件時，應於下列何者時間內完成損害控制或復原 作業，並依中央目的事業主管機關指定之方式辦理通知事 宜？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "於知悉該事件後 24小時內"
+            },
+            {
+                "letter": "B",
+                "text": "於知悉該事件後 36小時內"
+            },
+            {
+                "letter": "C",
+                "text": "於知悉該事件後 48小時內"
+            },
+            {
+                "letter": "D",
+                "text": "於知悉該事件後 72小時內"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "8. 關於 ISO 27001 ：2022的敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "ISO 27001 ：2022關於內部稽核活動之安排，內部稽 核員可以查核自己的工作"
+            },
+            {
+                "letter": "B",
+                "text": "ISO 27001 ：2022強調持續改善之要求"
+            },
+            {
+                "letter": "C",
+                "text": "ISO 27001 ：2022附錄 A區分為 4個領域"
+            },
+            {
+                "letter": "D",
+                "text": "ISO 27001 ：2022附錄 A共有 93個控制項"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "9. 我國個人資料保護法施行細則第 12條所稱適當安全維護措 施， 「不」包括下列何項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "個人資料之風險評估及管理機制"
+            },
+            {
+                "letter": "B",
+                "text": "認知宣導及教育訓練"
+            },
+            {
+                "letter": "C",
+                "text": "導入 ISO管理架構"
+            },
+            {
+                "letter": "D",
+                "text": "資料安全稽核機制"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "10. 根據歐盟一般資料保護規則（ General Data Protection Regulation, GDPR ） ，網站記錄使用者資訊（ Cookie）時，提 供下列何種資訊給使用者 確認「較」為合適？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "網站的所有內容"
+            },
+            {
+                "letter": "B",
+                "text": "使用者的個人身份證明"
+            },
+            {
+                "letter": "C",
+                "text": "關於 Cookie的明確和具體的資訊"
+            },
+            {
+                "letter": "D",
+                "text": "購物車的內容"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "11. 關於中華民國「個人資料保護法」之定義，下列何項錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "蒐集：指以特定方式取得個人資料"
+            },
+            {
+                "letter": "B",
+                "text": "處理：指為建立或利用個人資料檔案所為資料之記 錄、輸入、儲存、編輯、更正、複製、檢索、刪 除、輸出、連結或內部傳送"
+            },
+            {
+                "letter": "C",
+                "text": "利用：指將蒐集之個人資料為處理以外之使用"
+            },
+            {
+                "letter": "D",
+                "text": "個人資料檔案：指依系統建立而得以自動化機器或 其他非自動化方式檢索、整理之個人資料之集合"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "12. 依據營業秘密 法的規定，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "工程師於職務上研究或開發之營業秘密，歸工程師 所有"
+            },
+            {
+                "letter": "B",
+                "text": "營業秘密不得讓與他人或與他人共有"
+            },
+            {
+                "letter": "C",
+                "text": "營業秘密不得為質權及強制執行之標的"
+            },
+            {
+                "letter": "D",
+                "text": "營業秘密指方法、技術、製程、配方，程式則不屬 營業秘密，應屬著作權"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "13. 當某公益團體舉辦抽獎活動，而需蒐集參與者個人資料時， 請問下列何種方式最 「不」合適？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "直接保留參與者個人資訊，以供其他用途使用"
+            },
+            {
+                "letter": "B",
+                "text": "明確告知參與者，所蒐集個人資訊的用途"
+            },
+            {
+                "letter": "C",
+                "text": "提供參與者請求停止蒐集個人資訊的管道"
+            },
+            {
+                "letter": "D",
+                "text": "應視活動需求，只蒐集必 須的個人資訊"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "14. 資訊資產盤點的主要目的為下列何項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "銷售資訊資產"
+            },
+            {
+                "letter": "B",
+                "text": "識別和管理資訊資產"
+            },
+            {
+                "letter": "C",
+                "text": "清除資訊資產"
+            },
+            {
+                "letter": "D",
+                "text": "增加資訊資產價值"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "15. 對於資訊 資產盤點的 敘述，下列何者較正確 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "只在資產報廢時進行"
+            },
+            {
+                "letter": "B",
+                "text": "定期進行"
+            },
+            {
+                "letter": "C",
+                "text": "只在資產設備更新時進行"
+            },
+            {
+                "letter": "D",
+                "text": "不必定期進行"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "16. 關於資訊資產評價與分類的描述，下列何者 較正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資產價值評估以機密性最為重要"
+            },
+            {
+                "letter": "B",
+                "text": "資產的分級主要為了便於釐清資產的重要性"
+            },
+            {
+                "letter": "C",
+                "text": "資產的評價以人員資產為主"
+            },
+            {
+                "letter": "D",
+                "text": "使用的服務無需列入資訊資產"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "17. 關於資訊資產分類的目的，下列敘述何者 較正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "確認資訊資產的價值"
+            },
+            {
+                "letter": "B",
+                "text": "確認資訊資產的類型"
+            },
+            {
+                "letter": "C",
+                "text": "確認資訊資產的風險"
+            },
+            {
+                "letter": "D",
+                "text": "確認資訊資產的擁有者"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "18. 關於資訊資產的分類描述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "人員可以是全體同仁、駐點人員與工讀生，委 外廠 商人員不屬於組織人員故不列入"
+            },
+            {
+                "letter": "B",
+                "text": "軟體應包括作業系統 、應用系統程式、套裝軟體等"
+            },
+            {
+                "letter": "C",
+                "text": "文件應該包括所有紙本形式存在的文書資料，包含 公文與列印的表單"
+            },
+            {
+                "letter": "D",
+                "text": "環境資產可包含電力與消防設施等"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "19. 在進行資訊資產分類時，企業資源管理（ ERP）系統較適合 分類至下列何種資訊資產？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "硬體類資產"
+            },
+            {
+                "letter": "B",
+                "text": "軟體類資產"
+            },
+            {
+                "letter": "C",
+                "text": "服務類資產"
+            },
+            {
+                "letter": "D",
+                "text": "文件類資產"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "20. 進行資訊資產分類時，應分為幾類？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "5類"
+            },
+            {
+                "letter": "B",
+                "text": "6類"
+            },
+            {
+                "letter": "C",
+                "text": "7類"
+            },
+            {
+                "letter": "D",
+                "text": "由各個公司、組織視其環境及運作所需，自行設計 資訊資產之分類"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "21. 關於風險的敘述，下列何項錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "風險是對目標不確定性之效應"
+            },
+            {
+                "letter": "B",
+                "text": "進行風險分析及排序時，須以量化方式進行"
+            },
+            {
+                "letter": "C",
+                "text": "風險與控制並非總是一對一的形式，有時一個風險 是透過多控制作業在管理"
+            },
+            {
+                "letter": "D",
+                "text": "風險回應成本的高低與風險嚴重度並非高度正相關"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "22. 下列何者 「不」是 一般常見 資訊安全 風險管理的作業流程？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "全景建立"
+            },
+            {
+                "letter": "B",
+                "text": "風險識別"
+            },
+            {
+                "letter": "C",
+                "text": "風險承受能力"
+            },
+            {
+                "letter": "D",
+                "text": "風險處理"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "23. S公司為電器製造商並於歐洲經營網路電器零售業務，為了 因應 GDPR（General Data Protection Regulation ） ，該公司關 閉歐洲的零售業務。依據此內容，公司此項管理行為屬下列 何項風險回應對策？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "風險避免（ Risk Avoidance ）"
+            },
+            {
+                "letter": "B",
+                "text": "風險修改（Risk M odification ）"
+            },
+            {
+                "letter": "C",
+                "text": "風險保留（Risk Retention ）"
+            },
+            {
+                "letter": "D",
+                "text": "風險分擔（Risk Sharing）"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "24. 當公司使用雲端服務時，面對風險的態度及處理方式，下列 何者較「不」適宜？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "參考業界同業的使用經驗，從中選擇合適的雲端服 務供應商"
+            },
+            {
+                "letter": "B",
+                "text": "因為採用雲端服務，所以公司在這樣服務不會有風 險存在"
+            },
+            {
+                "letter": "C",
+                "text": "當某服務發生失效時，加以記錄相關情況，視情況 重新評估其風險"
+            },
+            {
+                "letter": "D",
+                "text": "因該服務前 3年都沒有失效的記錄，故其發生風險 的機率較低"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "25. 面對風險的態度，下列何者較 「不」合適？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "視實際情況決定可接受風險等級"
+            },
+            {
+                "letter": "B",
+                "text": "無論如何，皆應致力追求 零風險"
+            },
+            {
+                "letter": "C",
+                "text": "參考可接受風險等級擬訂風險處理計畫"
+            },
+            {
+                "letter": "D",
+                "text": "定期評估風險處理計畫執行成效"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "26. 關於零信任（ Zero Trust ）的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "零信任是不用始終驗證"
+            },
+            {
+                "letter": "B",
+                "text": "僅提供必要的權限"
+            },
+            {
+                "letter": "C",
+                "text": "不需保持網路可見性"
+            },
+            {
+                "letter": "D",
+                "text": "非所有流量都是不安全的前提下進行零信任設計"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "27. 近來 FIDO（Fast Identity Online ）標準被廣泛應用在身分識 別，下列描述何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "FIDO匯集生物識別（指紋、虹膜、聲紋和臉部識 別） 、 Token、晶片卡等各種認證技術方法"
+            },
+            {
+                "letter": "B",
+                "text": "FIDO因具備無密碼身分識別，並無整合多因子驗證"
+            },
+            {
+                "letter": "C",
+                "text": "可透過 FIDO身分鑑別和身分認證以確認使用者身 分，減少帳號 盜用"
+            },
+            {
+                "letter": "D",
+                "text": "FIDO將認證資料存於使用者端"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "28. 下列何者 「非」重要系統權限管理常見之安全管理措施？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "系統權限申請必須經過權責主管核准"
+            },
+            {
+                "letter": "B",
+                "text": "臨時權限到期即自動停用"
+            },
+            {
+                "letter": "C",
+                "text": "每月備份重要系統"
+            },
+            {
+                "letter": "D",
+                "text": "每半年定期檢視管理者及使用者權限是否異常"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "29. 下列何者 「非」保護密碼安全的管控措施？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "限制錯誤次數"
+            },
+            {
+                "letter": "B",
+                "text": "要求定期更改密碼"
+            },
+            {
+                "letter": "C",
+                "text": "自動註銷一定期間 未活動之帳戶"
+            },
+            {
+                "letter": "D",
+                "text": "密碼傳輸過程加密"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "30. 關於存取控制的基本管理敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "「責任分擔」是避免高機密資訊由某人完整的持有"
+            },
+            {
+                "letter": "B",
+                "text": "「最低權限」要求每個人都只能擁有完成任務的最 低權限"
+            },
+            {
+                "letter": "C",
+                "text": "「知的必要性」是指對於負責的業務需求性有「知 的權利」"
+            },
+            {
+                "letter": "D",
+                "text": "「資訊分類」使用者必須完整掌握其權限以外的對 應系統與資料"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "31. 指紋等生物特徵認證，屬於密碼學身分認證中的何種認證因 素？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "所知之事（ something you know ）"
+            },
+            {
+                "letter": "B",
+                "text": "所持之物（ something you have ）"
+            },
+            {
+                "letter": "C",
+                "text": "所具之形（ something you are ）"
+            },
+            {
+                "letter": "D",
+                "text": "所分享之物（ Something you share ）"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "32. 如附圖所示，為有效強化身分認證機制，常會使用多因 子 （Multi -factor authentication, MFA ）認證機制，下列哪 些應 用組合屬於多因 子認證類型？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1、2、3、5"
+            },
+            {
+                "letter": "B",
+                "text": "1、4、5、6"
+            },
+            {
+                "letter": "C",
+                "text": "1、2、3"
+            },
+            {
+                "letter": "D",
+                "text": "2、3、5"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "33. 下列何者「不」屬於存取控制認證技術型式一：你所知道的 事物（Something you know ）？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "密碼"
+            },
+            {
+                "letter": "B",
+                "text": "你喜歡的數字"
+            },
+            {
+                "letter": "C",
+                "text": "通行語"
+            },
+            {
+                "letter": "D",
+                "text": "指紋"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "34. 要防止透過無人管控的終端直接連接到主機上進行非法的 查詢，下列何項安全控制效果最佳？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "使用設有密碼的螢幕保護程式"
+            },
+            {
+                "letter": "B",
+                "text": "使用工作站腳本程序 檢查硬碟"
+            },
+            {
+                "letter": "C",
+                "text": "對主機數據資料文件加密"
+            },
+            {
+                "letter": "D",
+                "text": "自動註銷不活動的用戶"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "35. 資訊系統存取權限 管理，下列何項 較「不」正確 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "提供臨時人員暫時存取權限"
+            },
+            {
+                "letter": "B",
+                "text": "更新職務已異動者之存取權限"
+            },
+            {
+                "letter": "C",
+                "text": "拒絕職務代理需求之暫時存取權限"
+            },
+            {
+                "letter": "D",
+                "text": "撤銷已離職員工之存取權限"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "36. 關於對稱式密碼學（ Symmetric cryptography ）的敘述，下 列 何項錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "加密（ Encryption ）與解密（ Decryption ）使用相同 金鑰"
+            },
+            {
+                "letter": "B",
+                "text": "通常加密速度相較於非對稱密碼學更 快"
+            },
+            {
+                "letter": "C",
+                "text": "通常運算成本相較於非對稱密碼學更高"
+            },
+            {
+                "letter": "D",
+                "text": "缺點為金鑰交換須另外 建立保護機制"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "37. 關於 HTTPS協議中所使用數位憑證（ Digital Certification ） 的敘述，下列何項錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "其為 X.509電腦網路標準，並使用 X.500資料模組 定義屬性"
+            },
+            {
+                "letter": "B",
+                "text": "用於驗證所代表之實體（ Entity），例如：主機、組 織或個人"
+            },
+            {
+                "letter": "C",
+                "text": "可透過憑證 確認其發行者的數位簽章（ Digital Signature ）"
+            },
+            {
+                "letter": "D",
+                "text": "每張憑證僅能用於驗證一個網站（ Website）"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "38. 下列何種密碼演算法，其加密與解密使用的金鑰不同？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "DES"
+            },
+            {
+                "letter": "B",
+                "text": "3 DES"
+            },
+            {
+                "letter": "C",
+                "text": "AES"
+            },
+            {
+                "letter": "D",
+                "text": "RSA"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "39. 金鑰管理之各項安全過程中， 「不」包含下列哪一項過程？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "儲存"
+            },
+            {
+                "letter": "B",
+                "text": "封存"
+            },
+            {
+                "letter": "C",
+                "text": "配發"
+            },
+            {
+                "letter": "D",
+                "text": "破解"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "40. 下列何者 「不」屬金鑰配發問題 （Key Distribution Problem ） 的解決方法？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "事前共有"
+            },
+            {
+                "letter": "B",
+                "text": "金鑰分配中心（ KDC）"
+            },
+            {
+                "letter": "C",
+                "text": "利用漢明碼（Hamming Code）進行密鑰交換"
+            },
+            {
+                "letter": "D",
+                "text": "公開金鑰加密"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "41. 關於組織內資訊安全事故的處理流程，下列敘述何者 較正 確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "須建立內部資訊安全事故發生時的管理責任及實施 程序"
+            },
+            {
+                "letter": "B",
+                "text": "資訊安全事故的回應程序，僅針對組織內部同仁"
+            },
+            {
+                "letter": "C",
+                "text": "為了其真實性，由外部來的資訊安全事故資訊等外 部關注方告知，不須主動聯繫確認"
+            },
+            {
+                "letter": "D",
+                "text": "資訊安全事故處理的優先順序需先獲得 高階管理階 層同意後方可執行"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "42. 關於資訊安全事故處理的相關敘述，下列何者 較正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "發生資訊安全事故時先予以處理，後續再蒐集相關 資料"
+            },
+            {
+                "letter": "B",
+                "text": "事故發生後， 應針對事故留存相關紀錄並檢討與改進"
+            },
+            {
+                "letter": "C",
+                "text": "發生資訊安全事故時先予以處理，處理完後再通報 相關主管機關"
+            },
+            {
+                "letter": "D",
+                "text": "日常發生與資訊安全相關的議題，盡量以事件處理 不要提升至事故等級"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "43. 關於資訊安全稽核日誌留存的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊安全稽核日誌紀錄不宜太過詳細，以免揭露風險"
+            },
+            {
+                "letter": "B",
+                "text": "若系統稽核日誌留存與個人資料存取相關，須予以 保留一定的期限符合法規的要求"
+            },
+            {
+                "letter": "C",
+                "text": "為了管理系統的日常作業，系統管理者得給予對系 統稽核日誌的 異動權限"
+            },
+            {
+                "letter": "D",
+                "text": "系統稽核日誌的留存，端看硬體空間容量可保留多 久的期限"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "44. 試問有關資訊安全事件（ Information Security Event ）與資訊 安全事故（ Information Security Incident ）之敘述，下列何者 錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊安全事件是系統或網路中任何可觀察到的現象 或徵兆，可以無須理會"
+            },
+            {
+                "letter": "B",
+                "text": "防毒軟體攔截到一個病毒係屬於資 訊安全事件"
+            },
+            {
+                "letter": "C",
+                "text": "資訊安全事故已經對組織造成 影響"
+            },
+            {
+                "letter": "D",
+                "text": "駭客入侵組織內部網路竊取資料係屬資訊安全事故"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "45. 某一特定非公務機關知道所經管的一個核心資通系統發生 異常，並判別為遭受嚴重竄改，故依據「資通安全事件通報 及應變辦法」相關規定，須於 36小時內完成損害控制或復 原作業（含通報中央目的事業主管機關） 。收到通報的中央",
+        "options": [
+            {
+                "letter": "A",
+                "text": "2"
+            },
+            {
+                "letter": "B",
+                "text": "4"
+            },
+            {
+                "letter": "C",
+                "text": "6"
+            },
+            {
+                "letter": "D",
+                "text": "8"
+            }
+        ],
+        "answer": "B",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "46. 關於備份的敘述，下列何者 較正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "因為資源的分配，所有需要備份的資料都是每天備 份一次"
+            },
+            {
+                "letter": "B",
+                "text": "備份的頻率應該依照所需備份資料的重要性來分配"
+            },
+            {
+                "letter": "C",
+                "text": "備份於磁帶的資料可儲存於同層樓的辦公室"
+            },
+            {
+                "letter": "D",
+                "text": "備份可儲存於同一台硬體設備上"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "47. 關於營運持續規劃階段的敘述，下列何者 較正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "組織在規劃營運持續時，須將所有的資訊系統納入"
+            },
+            {
+                "letter": "B",
+                "text": "組織應以目前資訊系統資源，來規劃資訊系統營運 持續的實施"
+            },
+            {
+                "letter": "C",
+                "text": "組織於營運持續規劃的階段就須將資訊安全納入考量"
+            },
+            {
+                "letter": "D",
+                "text": "營運持續的規劃因為資源的限制，以同地做為考量 即可"
+            }
+        ],
+        "answer": "C",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "48. 關於資訊處理設施備援規劃的敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "組織可視資訊系統允許中斷時間要求，備妥資訊處 理設施所需數量，以符合可用性之目標"
+            },
+            {
+                "letter": "B",
+                "text": "考量資訊處理設施備援規劃時，不只主機相關設備的 備援，亦需要考慮到其他支援設施，如：發電機等"
+            },
+            {
+                "letter": "C",
+                "text": "規劃資訊處理設施的備援時，以可用性要求為主， 不需要特別考慮機密性或完整性的議題"
+            },
+            {
+                "letter": "D",
+                "text": "規劃維持營運持續使用到的備援設備，也需要安排 時間確認其可用性"
+            }
+        ],
+        "answer": "A",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "49. A公司災害緊急應變措施對於重要系統資料的恢復點目標 （Recovery Point Objective, RPO）設定為 4小時。關於此公",
+        "options": [
+            {
+                "letter": "A",
+                "text": "每2小時備份"
+            },
+            {
+                "letter": "B",
+                "text": "每日備份"
+            },
+            {
+                "letter": "C",
+                "text": "每8小時備份"
+            },
+            {
+                "letter": "D",
+                "text": "每週備份"
+            }
+        ],
+        "answer": "D",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "50. 在組織遇到資安事件時，可能需要尋找適宜的替代場地，請 問關於替代場地的敘述，下列何者 較正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "冷備援站點（ Cold site ） ：場地和設備皆有，於事件 發生時依需求執行回復工作"
+            },
+            {
+                "letter": "B",
+                "text": "暖備援站點（ Warm site ） ：異地備援端備有同樣之系 統，事件發生時在可接受的時間內恢復啟用，待資 料載入後即可投入營運"
+            },
+            {
+                "letter": "C",
+                "text": "熱備援站點（ Hot site） ：有提供基本設備，但仍須自 行安裝系統"
+            },
+            {
+                "letter": "D",
+                "text": "行動備援站點（ Mobile hot site ）：在移動車輛中安裝 設備與系統，當事件發生時，可迅速移動至適當地 點啟用"
+            }
+        ],
+        "answer": "",
+        "source": "112-02+I11-資訊安全管理概論.pdf"
+    },
+    {
+        "question": "1. 下列何者為資訊安全的「機密 性」之定義？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "確保資訊不會被揭露或被未經授權的個人、實體和流程 所取得"
+            },
+            {
+                "letter": "B",
+                "text": "確保資訊的正確和完全性"
+            },
+            {
+                "letter": "C",
+                "text": "確保資訊在需要時可被存取和使用"
+            },
+            {
+                "letter": "D",
+                "text": "確保資訊在傳輸過程中已確認兩方的身分和合法性"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "2. 關於文件管制措施，下列敘述何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "所有制定的 SOP皆須以書面發行"
+            },
+            {
+                "letter": "B",
+                "text": "制定的各項管理制度、程序，不宜以電子檔案公佈"
+            },
+            {
+                "letter": "C",
+                "text": "所制訂相關作業程序必須以四階文件來發行"
+            },
+            {
+                "letter": "D",
+                "text": "文件管制宜制定標準作業核可及發行流程，以利組織成員遵循"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "3. 資訊安全政策是資訊安全管理系統中的最高指導原則，有不 可缺少的重要性，下列敘述何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "滿足相關的要求事項的承諾後，無需定期審查目前 要求"
+            },
+            {
+                "letter": "B",
+                "text": "資訊安全政策不一定須由最高管理階層審核"
+            },
+            {
+                "letter": "C",
+                "text": "建立的資訊安全政策必須與組織的目的及資安目標相容一致"
+            },
+            {
+                "letter": "D",
+                "text": "屬於內部或機密文件，不可對外公告"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "4. 駭客侵入銀行資料庫竄改存款金額，主要在破壞資訊系統的 何種特性？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "機密性（ Confidentiality ）"
+            },
+            {
+                "letter": "B",
+                "text": "完整性（ Integrity）"
+            },
+            {
+                "letter": "C",
+                "text": "可用性（ Availability ）"
+            },
+            {
+                "letter": "D",
+                "text": "可靠性（ Accountability ）"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "5. 請問在資訊安全管理系統中的風險評鑑（ Risk Assessment ） 作業，是在 Plan（規劃） 、Do（執行） 、 Check（檢查） 、 Act （改善）循環中的那一部分？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Plan（規劃）"
+            },
+            {
+                "letter": "B",
+                "text": "Do（執行）"
+            },
+            {
+                "letter": "C",
+                "text": "Check（檢查）"
+            },
+            {
+                "letter": "D",
+                "text": "Act（改善）"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "6. 關於個人資料蒐集之特定目的消失或期限屆滿時之作為，下 列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "應主動停止蒐集該個人資料"
+            },
+            {
+                "letter": "B",
+                "text": "應主動停止處理該個人資料"
+            },
+            {
+                "letter": "C",
+                "text": "應主動停止利用該個人資料"
+            },
+            {
+                "letter": "D",
+                "text": "應主動刪除該個人資料"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "7. 關於資通安全管理法所定義「公務機關」的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "依法行使公權力之軍事機關"
+            },
+            {
+                "letter": "B",
+                "text": "依法行使公權力之中央機關、地方機構"
+            },
+            {
+                "letter": "C",
+                "text": "依法行使公權力之情報機關"
+            },
+            {
+                "letter": "D",
+                "text": "政府捐助並依法行使公權力之財團法人"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "8. 立案於我國的 A公司主要營業活動市場位於中華人民共和國 及新加坡並將以 ISO 27001 架構公司之資訊安全管理系統， 下列何項要求在其架構資訊安全管理系統時，並非優先考量 項目？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "ISO 27001： 2022"
+            },
+            {
+                "letter": "B",
+                "text": "個人資料保護法（中華民國）"
+            },
+            {
+                "letter": "C",
+                "text": "歐盟一般資料保護法規（ General Data Protection Regulation, GDPR）"
+            },
+            {
+                "letter": "D",
+                "text": "網路安全法（中華人民共和國）"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "9. 依據民國 110年12月發布的「公開發行公司建立內部控制 制度處理準則」 ，附圖中哪些事項的設置，為各類級公開發 行公司皆應於所定期限內如實完成的共通事項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1、2、4"
+            },
+            {
+                "letter": "B",
+                "text": "2、3"
+            },
+            {
+                "letter": "C",
+                "text": "3"
+            },
+            {
+                "letter": "D",
+                "text": "4"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "10. 下列何者「不」是個人資料保護法中，當事人對於個人資料 的權利？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "查詢或請求閱覽"
+            },
+            {
+                "letter": "B",
+                "text": "請求補充或更正"
+            },
+            {
+                "letter": "C",
+                "text": "請求刪除"
+            },
+            {
+                "letter": "D",
+                "text": "請求永久保留"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "11. 中華民國「營業祕密法」所稱之營業祕密，係指方法、技術、製程、配方、程式、設計或其他可用於生產、銷售或經營之資訊，其所必須符合之要件，下列敘述何項錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "非一般涉及該類資訊之人所知者"
+            },
+            {
+                "letter": "B",
+                "text": "因其秘密性而具有實際或潛在之經濟價值者"
+            },
+            {
+                "letter": "C",
+                "text": "所有人已採取合理之保密措施者"
+            },
+            {
+                "letter": "D",
+                "text": "資訊洩漏將造成公司損失者"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "12. 下列何者屬於中華民國「個人資料保護法」 第6條規範中的 「特種個人資料」 ？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "身分證統一編號"
+            },
+            {
+                "letter": "B",
+                "text": "基因"
+            },
+            {
+                "letter": "C",
+                "text": "生物特徵"
+            },
+            {
+                "letter": "D",
+                "text": "血統"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "13. 如附圖所示，依照創用 CC（Creative Commons ）授權的規 定，下列何種使用方式違反附圖中授權標示的規定？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "使用者必須按照著作人或授權人所指定的方式，表彰 其姓名"
+            },
+            {
+                "letter": "B",
+                "text": "使用者將該素材用於公益的用途上"
+            },
+            {
+                "letter": "C",
+                "text": "使用者將該素材用於商業廣告上"
+            },
+            {
+                "letter": "D",
+                "text": "使用者重製、散布、傳輸著作時，亦不得修改該著作"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "14. 在公司資產管理中，為達成識別組織之資產並定義適切之保 護責任，應優先建議採取下列何種控制措施？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "金鑰管理"
+            },
+            {
+                "letter": "B",
+                "text": "懲處過程"
+            },
+            {
+                "letter": "C",
+                "text": "變更管理"
+            },
+            {
+                "letter": "D",
+                "text": "資產盤點"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "15. 關於可移除式媒體 （如： USB隨身碟） ，下列敘述何者較 「不」 適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "所有可移除式媒體依製造商的規格要求，儲存於安 全的環境"
+            },
+            {
+                "letter": "B",
+                "text": "針對儲存於可移除式媒體上的敏感資料進行加密"
+            },
+            {
+                "letter": "C",
+                "text": "不再需要使用可移除式媒體時，將所儲存的資料徹底移除"
+            },
+            {
+                "letter": "D",
+                "text": "不將可移除式媒體登載於資產清冊上，以減少資料遺失的機會"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "16. 關於紙本類之資訊資產標示原則，下列敘述何者最「不」適 當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "內部使用級之紙本類資訊資產標示原則可為無需標 示"
+            },
+            {
+                "letter": "B",
+                "text": "內部使用級之紙本類資訊資產標示原則可為使用不 透明卷宗"
+            },
+            {
+                "letter": "C",
+                "text": "密級之紙本類資訊資產標示原則可為文件首頁標明機密等級或使用紅色卷宗"
+            },
+            {
+                "letter": "D",
+                "text": "密級之紙本類資訊資產標示原則可為文件封面標明 機密等級或使用紅色卷宗"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "17. 關於資產盤點之程序，下列敘述何者 最適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "可由組織個別之業務活動流程開始進行盤點"
+            },
+            {
+                "letter": "B",
+                "text": "應由資訊類資產開始進行盤點"
+            },
+            {
+                "letter": "C",
+                "text": "應由軟體類資產開始進行盤點"
+            },
+            {
+                "letter": "D",
+                "text": "應由硬體類資產開始進行盤點"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "18. 關於資訊資產盤點作業的描述，下列何者「不」最 適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資訊資產盤點即 是資訊設備 盤點"
+            },
+            {
+                "letter": "B",
+                "text": "資訊資產盤點在確認資產的使用狀況"
+            },
+            {
+                "letter": "C",
+                "text": "資訊資產盤點應考量 全面性"
+            },
+            {
+                "letter": "D",
+                "text": "資訊資產盤點應 確認資產的可用性"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "19. 關於資產分類分級的敘述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "建立資訊資產清冊 ，並定期清查資訊資產"
+            },
+            {
+                "letter": "B",
+                "text": "資訊資產不須指派人員負責管理事宜"
+            },
+            {
+                "letter": "C",
+                "text": "人員異動或離職前，須確實移交所保管之相關資訊 資產"
+            },
+            {
+                "letter": "D",
+                "text": "資訊資產報廢時，應依資產類別循相關安全程序辦 理銷毀"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "20. 關於實施 「資訊分類」 作業主要目的之敘述，下列何者最正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "防止儲存在媒體的資訊被經授權的移除"
+            },
+            {
+                "letter": "B",
+                "text": "防止儲存在媒體的資訊被經授權的揭露"
+            },
+            {
+                "letter": "C",
+                "text": "確保組織重要的資訊受到適切等級的保護"
+            },
+            {
+                "letter": "D",
+                "text": "確保公開的資訊受到適切等級的保護"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "21. 當進行風險評估，發現機密資料外洩風險是組織內部最大之 風險時，組織進行了相對應之風險處理方法，其中包含了購買資料外洩保險，此為下列何種風險處理方式？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "風險保留 （Risk Retention）"
+            },
+            {
+                "letter": "B",
+                "text": "風險降低（Risk Reduction）"
+            },
+            {
+                "letter": "C",
+                "text": "風險轉移（Risk Transfer ）"
+            },
+            {
+                "letter": "D",
+                "text": "風險避免 （Risk Avoidance ）"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "22. 風險評鑑（ Risk Assessment ）後的風險處理方式有以下哪幾 種方法？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "接受、降低、轉移、避免"
+            },
+            {
+                "letter": "B",
+                "text": "規劃、評估、排序、避免"
+            },
+            {
+                "letter": "C",
+                "text": "面對、處理、解決、接受"
+            },
+            {
+                "letter": "D",
+                "text": "評估、分析、處理、降低"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "23. 關於風險評鑑 （ Risk Assessment ）的敘述， 下列何者較正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "應建立一套適用於全公司（組織）之準則"
+            },
+            {
+                "letter": "B",
+                "text": "不同類別被評鑑項目，無須依不同類別區分風險"
+            },
+            {
+                "letter": "C",
+                "text": "可接受風險一定要在風險評鑑前先決定"
+            },
+            {
+                "letter": "D",
+                "text": "風險改善計畫，執行單位應再選擇是否需執行"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "24. 關於風險轉移（ Risk Transfer ）的敘述，下列何者「不」正 確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "藉由其他的團體，來承擔或分擔部份的風險"
+            },
+            {
+                "letter": "B",
+                "text": "當風險全部或部分被轉移時，可能會遭遇新的風險"
+            },
+            {
+                "letter": "C",
+                "text": "將風險轉移給其他團體時，可以降低風險對自身的 影響"
+            },
+            {
+                "letter": "D",
+                "text": "可以有效減低風險發生的機率"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "25. 下列何者「不」是風險處理的選項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "風險降低（Risk Reduction）"
+            },
+            {
+                "letter": "B",
+                "text": "風險轉移（Risk Transfer）"
+            },
+            {
+                "letter": "C",
+                "text": "風險忽略 （Risk Neglect）"
+            },
+            {
+                "letter": "D",
+                "text": "風險保留 （Risk Retention）"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "26. 關於存取控制（ Access control ）的描述，下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "存取者向受保護資源進行存取操作的控制管理"
+            },
+            {
+                "letter": "B",
+                "text": "未被授權者，可透過系統管理員，取得未被授權的 資源"
+            },
+            {
+                "letter": "C",
+                "text": "存取控制包含了認證、授權以及稽核"
+            },
+            {
+                "letter": "D",
+                "text": "現實生活中門禁系統也是一種存取控制的表現"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "27. 在自由決定存取控制（ Discretionary Access Control, DAC ） 環境中，以下哪個角色被授權向其他人授予資訊存取權限？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "資安經理"
+            },
+            {
+                "letter": "B",
+                "text": "部門經理"
+            },
+            {
+                "letter": "C",
+                "text": "資料擁有者"
+            },
+            {
+                "letter": "D",
+                "text": "執行長（ CEO）"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "28. 最常見的身分驗證方式是「帳號密碼」的驗證，請問下列措 施中何者無法提升安全性？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "要求定期修改密碼"
+            },
+            {
+                "letter": "B",
+                "text": "採用動態密碼"
+            },
+            {
+                "letter": "C",
+                "text": "規範高強度密碼長度與複雜度"
+            },
+            {
+                "letter": "D",
+                "text": "密碼統一並共用"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "29. 在存取控制 （Access Control ）中，提到存取控制系統能夠達 到的 AAA機制，請問這 3個A「不」包含下列何者？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "Availability"
+            },
+            {
+                "letter": "B",
+                "text": "Accounting"
+            },
+            {
+                "letter": "C",
+                "text": "Authentication"
+            },
+            {
+                "letter": "D",
+                "text": "Authorization"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "30. 下列關於存取控制的作法，何者較「不」正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "應訂定資訊存取控制政策，並文件化公告"
+            },
+            {
+                "letter": "B",
+                "text": "存取控制規範，需符合資料保護法令與契約規定"
+            },
+            {
+                "letter": "C",
+                "text": "為了能快速進行除錯，存取記錄應開放給所有工程 人員存取"
+            },
+            {
+                "letter": "D",
+                "text": "資訊存取控制規範，應依照人員的工作與職務分別 訂定"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "31. 為避免職務及責任範圍衝突，應採取下列何者控制措施？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "強化密碼管理"
+            },
+            {
+                "letter": "B",
+                "text": "日誌管理"
+            },
+            {
+                "letter": "C",
+                "text": "資訊之分級"
+            },
+            {
+                "letter": "D",
+                "text": "職責區隔"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "32. 下列何者為使用持有物（ Something You Have ）進行身分驗 證（Authentication ）？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "密碼"
+            },
+            {
+                "letter": "B",
+                "text": "指紋"
+            },
+            {
+                "letter": "C",
+                "text": "個人識別證"
+            },
+            {
+                "letter": "D",
+                "text": "簽名"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "33. 關於網路及系統存取管理，下列敘述何者「不」正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "系統主機應考量保護機制，如設定在一段時間未操 作時即會自動登出的機制"
+            },
+            {
+                "letter": "B",
+                "text": "若因人為因素誤植帳號及密碼，無需保存紀錄檔"
+            },
+            {
+                "letter": "C",
+                "text": "網路存取應設定設備來源位置與目的位置"
+            },
+            {
+                "letter": "D",
+                "text": "管理者應依照使用者身份，控制系統應用程式的存取權限"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "34. 為了防止非授權的存取，企業應根據存取控管政策對使用者 （包括內、外部使用者）存取權限進行管理 ，下列何者 最相 關？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "定期變更密碼"
+            },
+            {
+                "letter": "B",
+                "text": "定期審查使用者存取權限"
+            },
+            {
+                "letter": "C",
+                "text": "保留存取紀錄"
+            },
+            {
+                "letter": "D",
+                "text": "資料備份"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "35. 憑證記載了個人資料、公開金鑰、憑證單位名稱、數位簽章、以及憑證有效期限及用途等資訊，下列何者「不」是憑證 的 特性？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "機密性（ Confidentiality ）"
+            },
+            {
+                "letter": "B",
+                "text": "不可否認性（ Non-Repudiation）"
+            },
+            {
+                "letter": "C",
+                "text": "身分識別（Authentication）"
+            },
+            {
+                "letter": "D",
+                "text": "可用性（ Availability ）"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "36. 關於目前尚未被公開有碰撞攻擊 （ Collision attack ） 威脅之雜 湊函式（ Hash functions）類型，下列敘述何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "SHA -1"
+            },
+            {
+                "letter": "B",
+                "text": "SHA -2"
+            },
+            {
+                "letter": "C",
+                "text": "MD5"
+            },
+            {
+                "letter": "D",
+                "text": "CRC- 32"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "37. 關於非對稱式密碼學（ Asymmetric cryptography ）的敘述， 下列何項錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "私鑰（Private -key）僅能用於解密訊息"
+            },
+            {
+                "letter": "B",
+                "text": "私鑰可用於產生數位簽章（ Digital signatures）"
+            },
+            {
+                "letter": "C",
+                "text": "公鑰（Public -key）可用於加密訊息"
+            },
+            {
+                "letter": "D",
+                "text": "也稱作公鑰密碼學（Public -key cryptography ）"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "38. 關於雙重要素驗證（ Two-factor authentication, 2FA ）的 敘 述， 下列何者錯誤？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "指的是登入帳戶時需要提供多個驗證因素，通常是三 個或更多。除了密碼外，其他驗證因素可能包括短信 驗證碼、生物識別、硬體安全鑰匙、安全問題、行為 分析等"
+            },
+            {
+                "letter": "B",
+                "text": "郵件釣魚攻擊，攻擊者可以進行釣魚攻擊，試圖騙取 您的 2FA代碼，以進入您的帳戶"
+            },
+            {
+                "letter": "C",
+                "text": "使用安全性低的第三方服務來實現 2FA可能會導致 安全漏洞，讓攻擊者入侵您的帳戶"
+            },
+            {
+                "letter": "D",
+                "text": "當使用第三方應用程式進行 2FA驗證時，攻擊者可能 通過偽造應用程式來竊取您的 2FA代碼，以進入您的 帳戶"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "39. 密碼學身分認證的三個因素：所知之事（ something you know） 、所持之物 （something you have ） 、所具之形 （something you are） 。下列何項為所持之物認證因素？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "指紋"
+            },
+            {
+                "letter": "B",
+                "text": "晶片卡"
+            },
+            {
+                "letter": "C",
+                "text": "密碼"
+            },
+            {
+                "letter": "D",
+                "text": "臉型"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "40. 假設有兩金鑰，金鑰 A用來將明文 x變成密文 y，而金鑰 B",
+        "options": [
+            {
+                "letter": "A",
+                "text": "AES"
+            },
+            {
+                "letter": "B",
+                "text": "RS"
+            },
+            {
+                "letter": "C",
+                "text": "EC"
+            },
+            {
+                "letter": "D",
+                "text": "SHA"
+            }
+        ],
+        "answer": "D",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "41. 關於資訊安全事件的通報，下列敘述何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "如果只是觀察到可疑的資訊安全弱點，不須通報， 以免耗用太多資源"
+            },
+            {
+                "letter": "B",
+                "text": "如果是人為的錯誤，不須即時通報，可再觀察後續 結果"
+            },
+            {
+                "letter": "C",
+                "text": "如果看到應用系統存取違反的狀況，系統會主動發 出通知，可以不用即時通報"
+            },
+            {
+                "letter": "D",
+                "text": "除了組織員工，所有與資訊安全有關會接觸到的約 聘人員，也需要求如果觀察到可疑事件亦須及時通 報"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "42. 下列何者 較「不」是持續營運資料備份的考量項目？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "場地大小"
+            },
+            {
+                "letter": "B",
+                "text": "存放位置"
+            },
+            {
+                "letter": "C",
+                "text": "成本高低"
+            },
+            {
+                "letter": "D",
+                "text": "安全性"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "43. 關於營運衝擊分析 及災害復原計畫 應考慮項目，下列敘述何 者最「不」正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "復原至最小營運水準所需之員工、技術、設施及服 務所需之時間"
+            },
+            {
+                "letter": "B",
+                "text": "損害程度之等級 不包括收入損失、附加成本、商譽 損失、喪失競爭優勢等"
+            },
+            {
+                "letter": "C",
+                "text": "最小營運水準所需之人員、系統軟體及硬體及交通 等，皆為須考量之資源"
+            },
+            {
+                "letter": "D",
+                "text": "復原時間是完全復原至原服務水準所需之員工、技"
+            }
+        ],
+        "answer": "A",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "44. 資訊安全事故發生後，證據蒐集的相關敘述，下列何者 較正 確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "組織可考量與數位證據控管有關的工具導入，以確保 對數位證據的有效保存"
+            },
+            {
+                "letter": "B",
+                "text": "於資訊安全事故發生後，若需要針對證據予以鑑識， 一旦超過組織之權限，即無法提供使用"
+            },
+            {
+                "letter": "C",
+                "text": "若資訊安全事故涉及法律議題相關，證據保存存在困 難程度，所以無法實施控管"
+            },
+            {
+                "letter": "D",
+                "text": "資訊安全事故的發生會揭露內部的問題，所以不適合文件化太過詳細"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "45. 如附圖所示，資訊安全事件處理的正確步驟順序為下列何 項？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "ABC"
+            },
+            {
+                "letter": "B",
+                "text": "ACB"
+            },
+            {
+                "letter": "C",
+                "text": "CBA"
+            },
+            {
+                "letter": "D",
+                "text": "DBCA"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "46. 營運持續性計畫（ Business Continuity Plan, BCP ）實務上通 常多久須測試一次？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "在所有稽核活動前"
+            },
+            {
+                "letter": "B",
+                "text": "執行一次確認有效性即可"
+            },
+            {
+                "letter": "C",
+                "text": "至少每年一次"
+            },
+            {
+                "letter": "D",
+                "text": "只有當異地備份改變時"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "47. 營運衝擊分析最主要的目的為何？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "進行風險分析"
+            },
+            {
+                "letter": "B",
+                "text": "確認重要流程的最大可承受中斷時間"
+            },
+            {
+                "letter": "C",
+                "text": "記錄結果，並提出改正措施"
+            },
+            {
+                "letter": "D",
+                "text": "確認殘餘風險"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "48. 關於資料 備份的敘述，下列何者正確？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "因為資源設備的限制，無須進行回復測試"
+            },
+            {
+                "letter": "B",
+                "text": "備份儲存媒體上的資料可永久保存"
+            },
+            {
+                "letter": "C",
+                "text": "備份媒體儲存的地點，需考量主要地點發生災難時， 不會被波及的場域"
+            },
+            {
+                "letter": "D",
+                "text": "因為備份工具每天皆會啟動進行備份，所以若當日無 法備份完成，隔日成功即可"
+            }
+        ],
+        "answer": "B",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "49. 若是 A公司不能接受重要系統中斷超過 1小時，下列何項 異地備援方式最適合該公司？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "冷備援"
+            },
+            {
+                "letter": "B",
+                "text": "熱備援"
+            },
+            {
+                "letter": "C",
+                "text": "溫備援"
+            },
+            {
+                "letter": "D",
+                "text": "機房內自主備援"
+            }
+        ],
+        "answer": "C",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    },
+    {
+        "question": "50. X公司對於電子郵件系統可用性目標設定為不得中斷超過 一天，在制定該系統災害復原計畫時，關於此公司復原時間 目標（Recovery Time Objective, RTO）的設定，下列何項最適當？",
+        "options": [
+            {
+                "letter": "A",
+                "text": "RTO設定為二天"
+            },
+            {
+                "letter": "B",
+                "text": "RTO設定為一週"
+            },
+            {
+                "letter": "C",
+                "text": "RTO設定為 20小時"
+            },
+            {
+                "letter": "D",
+                "text": "在制定災害復原計畫時，不需考慮 RTO"
+            }
+        ],
+        "answer": "",
+        "source": "11201-I11+資訊安全管理概論.pdf"
+    }
+]
