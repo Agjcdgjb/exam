@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Microsoft JhengHei', Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.screen {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.hidden {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+button {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 12px 24px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.score, .progress {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.question-container {
+    margin: 20px 0;
+}
+
+#question-text {
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #2c3e50;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.options {
+    display: grid;
+    gap: 15px;
+}
+
+.option {
+    padding: 15px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.option:hover {
+    background-color: #f8f9fa;
+    border-color: #3498db;
+}
+
+.option.selected {
+    background-color: #e3f2fd;
+    border-color: #3498db;
+}
+
+.option.correct {
+    background-color: #d4edda;
+    border-color: #28a745;
+}
+
+.option.incorrect {
+    background-color: #f8d7da;
+    border-color: #dc3545;
+}
+
+.answer-feedback {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+
+.answer-feedback h3 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+#correct-answer {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.result-score {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0;
+    color: #2c3e50;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .screen {
+        padding: 20px;
+    }
+    
+    h1 {
+        font-size: 24px;
+    }
+    
+    #question-text {
+        font-size: 18px;
+    }
+    
+    .option {
+        padding: 12px;
+        font-size: 14px;
+    }
+} 

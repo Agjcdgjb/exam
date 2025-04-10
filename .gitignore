@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pdf
-.env
-*.log
-quiz_app.py
-pdf_to_json.py
-requirements.txt
-templates/ 

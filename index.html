@@ -3,221 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>資訊安全管理概論測驗系統</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-        .container {
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        .question {
-            margin-bottom: 20px;
-        }
-        .options {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-        .option {
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        .option:hover {
-            background-color: #f0f0f0;
-        }
-        .option.selected {
-            background-color: #e3f2fd;
-            border-color: #2196f3;
-        }
-        .option.correct {
-            background-color: #e8f5e9;
-            border-color: #4caf50;
-        }
-        .option.incorrect {
-            background-color: #ffebee;
-            border-color: #f44336;
-        }
-        .progress {
-            margin: 20px 0;
-            height: 10px;
-            background-color: #eee;
-            border-radius: 5px;
-            overflow: hidden;
-        }
-        .progress-bar {
-            height: 100%;
-            background-color: #2196f3;
-            transition: width 0.3s;
-        }
-        .score {
-            font-size: 1.2em;
-            font-weight: bold;
-            margin: 20px 0;
-        }
-        .button {
-            padding: 10px 20px;
-            background-color: #2196f3;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 1em;
-        }
-        .button:hover {
-            background-color: #1976d2;
-        }
-        .result {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .hidden {
-            display: none;
-        }
-    </style>
+    <title>資訊安全管理概論測驗</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <div id="start-screen">
-            <h1>資訊安全管理概論測驗系統</h1>
-            <p>本測驗包含25題，每題4分，總分100分。</p>
-            <button class="button" onclick="startQuiz()">開始測驗</button>
+        <div id="start-screen" class="screen">
+            <h1>資訊安全管理概論測驗</h1>
+            <p>每次測驗將隨機抽取 25 題，每題 4 分，滿分 100 分</p>
+            <button id="start-btn">開始測驗</button>
         </div>
 
-        <div id="quiz-screen" class="hidden">
-            <div class="progress">
-                <div class="progress-bar" id="progress-bar"></div>
+        <div id="quiz-screen" class="screen hidden">
+            <div class="quiz-header">
+                <div class="score">得分: <span id="score">0</span></div>
+                <div class="progress">第 <span id="current-question">1</span> / 25 題</div>
             </div>
-            <div class="question" id="question"></div>
-            <div class="options" id="options"></div>
-            <div class="score" id="score">分數: 0</div>
-            <button class="button" id="next-button" onclick="nextQuestion()" disabled>下一題</button>
+
+            <div class="question-container">
+                <h2 id="question-text"></h2>
+                <div id="options" class="options"></div>
+            </div>
+
+            <div id="answer-feedback" class="answer-feedback hidden">
+                <h3>正確答案: <span id="correct-answer"></span></h3>
+                <p id="explanation"></p>
+                <button id="next-btn">下一題</button>
+            </div>
         </div>
 
-        <div id="result-screen" class="hidden">
-            <h2>測驗結果</h2>
-            <div class="score" id="final-score"></div>
-            <div id="result-message"></div>
-            <button class="button" onclick="restartQuiz()">重新測驗</button>
+        <div id="result-screen" class="screen hidden">
+            <h1>測驗完成！</h1>
+            <div class="result-score">您的得分: <span id="final-score">0</span></div>
+            <button id="restart-btn">重新測驗</button>
         </div>
     </div>
-
-    <script>
-        let questions = [];
-        let currentQuestion = 0;
-        let score = 0;
-        let selectedAnswer = null;
-
-        // 載入題目
-        fetch('questions.json')
-            .then(response => response.json())
-            .then(data => {
-                questions = data;
-            })
-            .catch(error => console.error('Error loading questions:', error));
-
-        function startQuiz() {
-            // 隨機選擇25題
-            questions = questions.sort(() => Math.random() - 0.5).slice(0, 25);
-            currentQuestion = 0;
-            score = 0;
-            document.getElementById('start-screen').classList.add('hidden');
-            document.getElementById('quiz-screen').classList.remove('hidden');
-            showQuestion();
-        }
-
-        function showQuestion() {
-            const question = questions[currentQuestion];
-            document.getElementById('question').textContent = `${currentQuestion + 1}. ${question.question}`;
-            
-            const optionsDiv = document.getElementById('options');
-            optionsDiv.innerHTML = '';
-            
-            question.options.forEach((option, index) => {
-                const optionDiv = document.createElement('div');
-                optionDiv.className = 'option';
-                optionDiv.textContent = option;
-                optionDiv.onclick = () => selectAnswer(index);
-                optionsDiv.appendChild(optionDiv);
-            });
-
-            document.getElementById('next-button').disabled = true;
-            updateProgress();
-        }
-
-        function selectAnswer(index) {
-            selectedAnswer = index;
-            const options = document.querySelectorAll('.option');
-            options.forEach((option, i) => {
-                option.classList.remove('selected');
-                if (i === index) {
-                    option.classList.add('selected');
-                }
-            });
-            document.getElementById('next-button').disabled = false;
-        }
-
-        function nextQuestion() {
-            const question = questions[currentQuestion];
-            const isCorrect = selectedAnswer === question.answer;
-            
-            if (isCorrect) {
-                score += 4;
-            }
-
-            const options = document.querySelectorAll('.option');
-            options.forEach((option, i) => {
-                option.classList.remove('selected');
-                if (i === question.answer) {
-                    option.classList.add('correct');
-                } else if (i === selectedAnswer && !isCorrect) {
-                    option.classList.add('incorrect');
-                }
-            });
-
-            setTimeout(() => {
-                currentQuestion++;
-                if (currentQuestion < questions.length) {
-                    showQuestion();
-                } else {
-                    showResult();
-                }
-            }, 1000);
-        }
-
-        function updateProgress() {
-            const progress = (currentQuestion / questions.length) * 100;
-            document.getElementById('progress-bar').style.width = `${progress}%`;
-            document.getElementById('score').textContent = `分數: ${score}`;
-        }
-
-        function showResult() {
-            document.getElementById('quiz-screen').classList.add('hidden');
-            document.getElementById('result-screen').classList.remove('hidden');
-            
-            const finalScore = document.getElementById('final-score');
-            finalScore.textContent = `最終分數: ${score}`;
-            
-            const resultMessage = document.getElementById('result-message');
-            resultMessage.textContent = score >= 60 ? 
-                '恭喜您通過測驗！' : 
-                '很遺憾，您未能通過測驗。請再接再厲！';
-        }
-
-        function restartQuiz() {
-            document.getElementById('result-screen').classList.add('hidden');
-            document.getElementById('start-screen').classList.remove('hidden');
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html> 
