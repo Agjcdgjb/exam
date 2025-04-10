@@ -15,6 +15,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    width: 100%;
 }
 
 .screen {
@@ -22,6 +23,8 @@ body {
     border-radius: 10px;
     padding: 30px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    overflow-x: hidden;
 }
 
 .hidden {
@@ -75,11 +78,15 @@ button:hover {
     color: #2c3e50;
     white-space: pre-wrap;
     word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    width: 100%;
 }
 
 .options {
     display: grid;
     gap: 15px;
+    width: 100%;
 }
 
 .option {
@@ -90,6 +97,10 @@ button:hover {
     transition: all 0.3s;
     white-space: pre-wrap;
     word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    width: 100%;
+    text-align: left;
 }
 
 .option:hover {
@@ -139,22 +150,27 @@ button:hover {
 @media (max-width: 600px) {
     .container {
         padding: 10px;
+        max-width: 100%;
     }
     
     .screen {
         padding: 20px;
+        border-radius: 0;
     }
     
     h1 {
         font-size: 24px;
+        word-wrap: break-word;
     }
     
     #question-text {
         font-size: 18px;
+        line-height: 1.5;
     }
     
     .option {
         padding: 12px;
         font-size: 14px;
+        line-height: 1.4;
     }
 } 
